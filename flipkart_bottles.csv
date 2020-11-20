@@ -1,0 +1,961 @@
+,Product_Name,Brand,Capacity,Original_Price,Discount_Price,Discount_Percentage,specification,Rating,totalNumberofRatingGivens
+0,Milton Thermosteel Flip Lid 1000 ML Flask (24hrs Hot & ...,Milton,1000 ML,NaN,NaN,NaN,"Pack of 1, Silver, Steel",4.4,"(11,267)"
+1,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹989,17% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+2,Cello VENICE FRIDGE WATER BOTTLES 1000 ml Bottle,Cello,1000 ml,₹599,₹425,29% off,"Pack of 5, Multicolor, Plastic",4.5,"(48,093)"
+3,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+4,Pigeon Bling 750 ml Bottle,Pigeon,750 ml,₹399,₹249,37% off,"Pack of 1, Steel/Chrome, Steel",4.1,"(24,934)"
+5,Milton Thermosteel Flip lid 1000 ml Bottle,Milton,1000 ml,₹995,₹846,14% off,"Pack of 1, Silver, Steel",4.3,(793)
+6,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+7,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+8,ATMAN 3PCS WATER BOTTLE 1000 ml Water Bottles,ATMAN,1000 ml,₹499,₹139,72% off,"Set of 3, Multicolor",4.4,(159)
+9,AKR Double Wall Vacuum Insulated Stainless Steel Flask ...,AKR,NaN,"₹1,299",₹449,65% off,Blue,4.2,(842)
+10,Tuelip Stainless Steel Bottle for School Kids Girls & B...,Tuelip,NaN,₹599,₹259,56% off,"Set of 1, Blue",3.9,(128)
+11,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+12,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹699,₹299,57% off,Blue,4.2,(539)
+13,Fitkit Classic Bottle 700 ml Shaker,Fitkit,700 ml,₹449,₹148,67% off,"Pack of 1, Brown, Plastic",4.3,"(22,173)"
+14,Jaypee Plus Max Gym bottle 700 ml Shaker,Jaypee,700 ml,₹699,₹183,73% off,"Pack of 1, Black, Plastic",4.2,"(76,601)"
+15,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+16,Spider Smart Protein Shaker Bottle for gym with 2 Stora...,Spider,NaN,₹290,₹194,33% off,"Pack of 1, Red, Plastic",4.2,"(15,864)"
+17,Fortune Kachi Ghani Mustard Oil Plastic Bottle,Fortune,NaN,₹96,₹74,22% off,500 ml,4.4,"(3,765)"
+18,Deva Group Of Industries Design Joient Leak Proof Pure ...,Deva,NaN,"₹4,126","₹1,085",73% off,"Pack of 3, Brown, Copper",4.1,(144)
+19,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+20,MASTERCOOL Curve 900 ml Bottle,MASTERCOOL,900 ml,₹199,₹119,40% off,"Pack of 1, Blue, PET",4.1,"(78,210)"
+21,Greenchef Stainless steel 750ml Bottle with lock 750 ml...,Greenchef,750ml,₹399,₹229,42% off,"Pack of 1, Steel/Chrome, Steel",4,"(9,870)"
+22,Milton Flip hot and cold thermosteel bottle 1000 ml Bot...,Milton,1000 ml,₹995,₹849,14% off,"Pack of 1, Silver, Steel",4.4,(969)
+23,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+24,Milton COPPER CHARGE 1000 960 ml Bottle,Milton,960 ml,₹925,₹769,16% off,"Pack of 1, Copper, Copper",4.1,"(1,808)"
+25,Milton THERMOSTEEL 1000 FLIP LID 1000 ml Bottle,Milton,1000 ml,₹995,₹849,14% off,"Pack of 1, Steel/Chrome, Steel",4.3,(565)
+26,Rema Do Your Best 1000 Stainless Steel Water Bottle for...,Rema,NaN,₹400,₹200,50% off,"Set of 1, Blue",3.8,(10)
+27,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+28,Tuelip Sports Stainless Steel Bottle for School Kids Gi...,Tuelip,NaN,₹699,₹299,57% off,"Set of 1, Red",4.2,(389)
+29,Rema Water Bottle Stainless Steel - Sports Pure Steel B...,Rema,NaN,₹529,₹260,50% off,"Set of 1, Silver",4,(256)
+30,Disney 3D FIGURINE TUMBLER CARS RACERS EDGE 360 ml Wate...,Disney,360 ml,₹399,₹339,15% off,"Set of 1, Red",4.3,(28)
+31,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+32,Fitkit FKSB09 Classic 700 ml Shaker,Fitkit,700 ml,₹449,₹137,69% off,"Pack of 1, Purple, Plastic",4.3,"(22,173)"
+33,Fitkit FKSB10 Classic 700 ml Shaker,Fitkit,700 ml,₹449,₹149,66% off,"Pack of 1, Blue, Plastic",4.3,"(22,173)"
+34,HAANS Shakeit 500 ml Shaker,HAANS,500 ml,₹749,₹183,75% off,"Pack of 1, Orange, Plastic",4.3,"(11,228)"
+35,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+36,Milton Thermosteel Flip lid 1000 ml Flask 1000 ml Flask,Milton,1000 ml,₹995,₹766,23% off,"Pack of 1, Silver, Steel",4.4,"(1,35,755)"
+37,Flipkart SmartBuy Designer Mosaic Bottle - 1000ml - PET,Flipkart,1000ml,₹679,₹279,58% off,"Pack of 3, Multicolor, PET",4.5,"(34,873)"
+38,Cello cello H2O 1000 ml Bottle,Cello,1000 ml,"₹1,050",₹679,35% off,"Pack of 6, Red, Green, Blue, Pink, Orange, Grey, Plastic",4.4,"(49,594)"
+39,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+40,AS-IT-IS Nutrition Shaker Bottle / Water Bottle 1.5 Lit...,AS-IT-IS,NaN,₹320,₹249,22% off,"Pack of 1, Multicolor, Plastic",4.4,"(3,477)"
+41,Dalmia Sanjeevani Hand Sanitizer Bottle,Dalmia,NaN,₹250,₹125,50% off,0.5 L,4.2,(9)
+42,Milton THERMOSTEEL DUO 1800 1800 ml Bottle,Milton,1800 ml,"₹1,820","₹1,599",12% off,"Pack of 1, Steel/Chrome, Steel",4.4,"(1,224)"
+43,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+44,Greenchef Alta Stainless steel 600ml bottle 600 ml Bott...,Greenchef,600ml,₹299,₹229,23% off,"Pack of 1, Steel/Chrome, Steel",4.2,"(3,393)"
+45,Tallboy INDIAN CRAFT CLASSIC COPPER HAMMERED 1000 ml Bo...,Tallboy,1000 ml,₹885,₹469,47% off,"Pack of 1, Copper, Copper",4.2,(180)
+46,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+47,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+48,Dr. Copper Worlds First Seam Less Copper Water 1000 ml ...,Dr.,1000 ml,₹799,₹729,8% off,"Pack of 1, Brown, Copper",4.1,"(12,474)"
+49,Kimaya Stainless Steel 1000 ml Bottle,Kimaya,1000 ml,"₹1,199",₹445,62% off,"Pack of 2, Silver, Steel",3.9,(339)
+50,ATMAN 6PCS WATERBOTTLE 1000 ml Water Bottle,ATMAN,1000 ml,₹799,₹349,56% off,"Set of 1, Multicolor",4.3,(74)
+51,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+52,Disney 3D FIGURINE TUMBLER MINNIE 360 ml Water Bottle,Disney,360 ml,NaN,₹399,NaN,"Set of 1, Multicolor",4.2,(122)
+53,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹799,₹469,41% off,"Blue, Yellow",4.1,"(1,055)"
+54,UNIGEAR BPA Free Double Wall Vacuum Insulated Thermos W...,UNIGEAR,NaN,₹798,₹429,46% off,"Set of 1, Black",4.3,(284)
+55,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+56,Fitastic Shaker 2.0 (Black)700 ml 700 ml Shaker,Fitastic,700 ml,₹600,₹225,62% off,"Pack of 1, Black, PET",4.2,(634)
+57,QUINERGYS ® Protein Shaker | Sipper Bottle | Gym Bottle...,QUINERGYS,NaN,₹634,₹191,69% off,"Pack of 1, Red, Tritan, Plastic",4.1,"(1,289)"
+58,Nova Premium Quality Liquid + Double Protein Compartmen...,Nova,NaN,₹599,₹199,66% off,"Pack of 1, Purple, Black, Plastic",4.1,(195)
+59,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+60,Zandu Chyavanprashad,Zandu,NaN,NaN,₹230,NaN,900 g,4.4,(136)
+61,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+62,Prestige Tattva Copper Bottle TCB 03 1000 ml Bottle,Prestige,1000 ml,₹995,₹795,20% off,"Pack of 1, Brown, Copper",4.1,"(3,974)"
+63,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+64,Flipkart SmartBuy Designer Mosaic Bottle - 1000ml - PET,Flipkart,1000ml,"₹1,279",₹499,60% off,"Pack of 6, Multicolor, PET",4.5,"(34,873)"
+65,Milton DUO DLX 500 500 ml Bottle,Milton,500 ml,₹775,₹699,9% off,"Pack of 1, Steel/Chrome, Steel",4.4,(611)
+66,Cello Puro Sports Set of 2 Assorted 900 ml Bottle,Cello,900 ml,₹358,₹300,16% off,"Pack of 2, Multicolor, Plastic",4.2,"(13,060)"
+67,Cello Ozone Plastic Water Bottle Set of 6 1000 ml Bottl...,Cello,1000 ml,₹852,₹584,31% off,"Pack of 6, Multicolor, Plastic",4.4,"(3,515)"
+68,"Tuelip Metal Durable Sports Water Bottle For College,Sc...",Tuelip,NaN,₹599,₹229,61% off,"Set of 1, Black",3.6,(230)
+69,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+70,"Tuelip Stainless Steel Water Bottle For College, School...",Tuelip,NaN,"₹1,199",₹499,58% off,"Set of 2, Multicolor",4.3,(42)
+71,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹699,₹249,64% off,"Set of 1, Pink",4.1,(508)
+72,Marvel AVENGER 500 ml Water Bottle,Marvel,500 ml,₹199,₹169,15% off,"Set of 1, Blue, Black",4.1,(66)
+73,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+74,AS-IT-IS Nutrition Protein Shaker Bottle with Scoop (30...,AS-IT-IS,NaN,₹254,₹188,25% off,"Pack of 1, Multicolor, Plastic",4.3,"(8,340)"
+75,Jaypee Plus Max Gym bottle 700 ml Shaker,Jaypee,700 ml,₹699,₹183,73% off,"Pack of 1, Green, Plastic",4.2,"(76,600)"
+76,QUINERGYS ® Spider Protein Shaker Bottle for Gym - 500m...,QUINERGYS,NaN,₹399,₹192,51% off,"Pack of 1, Green, Tritan, Plastic",4.1,"(4,354)"
+77,Cadbury Bournvita Pro Health Vitamins,Cadbury,NaN,NaN,₹110,NaN,200 g,4.5,"(5,594)"
+78,"Milton Thermosteel Flip Lid Flask, Silver 500 ml Bottle",Milton,500 ml,NaN,NaN,NaN,"Pack of 1, Silver, Steel",4.3,"(2,127)"
+79,Tupperware Aquasafe Water Bottle 1000 ml Bottle,Tupperware,1000 ml,"₹1,100",₹984,10% off,"Pack of 4, Orange, Green, Blue, Yellow, Plastic",4.7,(12)
+80,GALAXY Gifts Store BEAST SPORTS GALLON BOTTLE 1.5 L WIT...,GALAXY,NaN,₹399,₹220,44% off,"Pack of 1, Black, Plastic",4.4,(195)
+81,Spider Smart Protein Shaker Bottle for gym with 2 Stora...,Spider,NaN,₹799,₹197,75% off,"Pack of 1, Black, Plastic",4.2,"(15,864)"
+82,Adrenex by Flipkart BPA Free Gym Bottle with Single Sup...,Adrenex,NaN,₹529,₹259,51% off,"Pack of 1, Grey, Orange, Plastic",4.3,"(20,824)"
+83,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+84,Cadbury Bournvita Pro Health Vitamins,Cadbury,NaN,NaN,₹110,NaN,200 g,4.5,"(5,594)"
+85,Greenchef Alta Stainless steel 600ml bottle 600 ml Bott...,Greenchef,600ml,₹299,₹229,23% off,"Pack of 1, Steel/Chrome, Steel",4.2,"(3,393)"
+86,Prestige Tattva Copper Bottle TCB 04 1000 ml Bottle,Prestige,1000 ml,₹895,₹745,16% off,"Pack of 1, Brown, Copper",4,"(1,566)"
+87,MASTERCOOL PYRAMID 1000 ml Bottle,MASTERCOOL,1000 ml,₹199,₹119,40% off,"Pack of 1, Blue, PET",4.3,"(1,458)"
+88,Dr. Copper Worlds First Seam Less Copper Water 1000 ml ...,Dr.,1000 ml,₹799,₹729,8% off,"Pack of 1, Brown, Copper",4.1,"(12,474)"
+89,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+90,Kimaya Stainless Steel 1000 ml Bottle,Kimaya,1000 ml,"₹1,199",₹445,62% off,"Pack of 2, Silver, Steel",3.9,(339)
+91,Milton THERMOSTEEL 500 FLIP LID 500 ml Bottle,Milton,500 ml,₹670,₹589,12% off,"Pack of 1, Multicolor, Steel",4.3,(296)
+92,"Tuelip ""wake up and make up"" Aluminium Printed Water Bo...",Tuelip,NaN,₹599,₹279,53% off,White,4.2,(107)
+93,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+94,Pigeon KING 750 ml Water Bottles,Pigeon,750 ml,₹620,₹460,25% off,"Set of 2, SILVER STEEL",4.1,(798)
+95,Disney Classic 350 ml,Disney,350 ml,NaN,₹349,NaN,Multicolor,NaN,NaN
+96,HopKart Plastic Water Bottels set of 12 1000 ml Water B...,HopKart,1000 ml,₹999,₹589,41% off,"Set of 12, Red, Black, Green, Blue, Multicolor",NaN,NaN
+97,Adrenex by Flipkart BPA Free Gym Bottle with Mixer Ball...,Adrenex,NaN,₹379,₹219,42% off,"Pack of 1, Black, Grey, Plastic",4.3,"(13,140)"
+98,Adrenex by Flipkart BPA Free Gym Bottle with Mixer Ball...,Adrenex,NaN,₹379,₹159,58% off,"Pack of 1, Blue, Grey, Plastic",4.3,"(13,140)"
+99,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+100,AMROX Muscle Mb BPA Free Gym Bottle with Mixer Ball 650...,AMROX,NaN,₹299,₹249,16% off,"Pack of 1, Black, Plastic",4.3,(27)
+101,Head & Shoulders Smooth & Silky Shampoo Men & Women,Head,NaN,₹150,₹144,4% off,180 ml,4.4,"(70,834)"
+102,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+103,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+104,Cello OZONE 1000 ml Bottle,Cello,1000 ml,₹850,₹585,31% off,"Pack of 6, Multicolor, PET",4.5,"(4,624)"
+105,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+106,Prestige Tattva Copper Bottle TCB 03 1000 ml Bottle,Prestige,1000 ml,₹995,₹795,20% off,"Pack of 1, Brown, Copper",4.1,"(3,974)"
+107,"Cello Infuse Plastic Water Bottle Set, 800ml, Set of 2,...",Cello,800ml,₹398,₹299,24% off,"Pack of 2, Multicolor, Plastic",4.2,"(1,551)"
+108,Cello Ozone Plastic Water Bottle Set of 6 1000 ml Bottl...,Cello,1000 ml,₹852,₹584,31% off,"Pack of 6, Multicolor, Plastic",4.4,"(3,515)"
+109,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+110,Rema Water Bottle Stainless Steel - Sports Pure Steel B...,Rema,NaN,₹560,₹295,47% off,"Set of 1, Silver",3.9,(212)
+111,Marvel SPIDERMAN 400 ml Water Bottle,Marvel,400 ml,NaN,₹199,NaN,"Set of 1, Red, Blue",4.1,(44)
+112,Milton Kids Cutie School Water Bottle 450 ml (Pack of 2...,Milton,450 ml,₹349,₹199,42% off,"Set of 2, Multicolor",3.9,(16)
+113,Tupperware Aquasafe Water Bottle 1000 ml Bottle,Tupperware,1000 ml,"₹1,100",₹984,10% off,"Pack of 4, Orange, Green, Blue, Yellow, Plastic",4.7,(12)
+114,Tuelip Sports Stainless Steel Water Bottle 750 ml Water...,Tuelip,750 ml,₹599,₹279,53% off,"Set of 1, Black",4.1,(94)
+115,Nova Extreme 101 BPA Free 700 ml Shaker,Nova,700 ml,₹899,₹138,84% off,"Pack of 1, Grey, Black, Plastic",3.9,"(5,548)"
+116,HAANS Cyclone Shaker 500 ml Shaker,HAANS,500 ml,"₹1,999",₹329,83% off,"Pack of 1, Black, Plastic",4,(937)
+117,HAANS Fuel Gym 500 ml Shaker,HAANS,500 ml,₹699,₹149,78% off,"Pack of 1, Blue, Plastic",4.3,"(8,214)"
+118,Apis Himalaya Honey,Apis,NaN,₹120,₹9,92% off,300 g,4.1,(104)
+119,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+120,Cello puro junior 600 ml Water Bottles,Cello,600 ml,₹349,₹289,17% off,"Set of 2, Pink, Yellow",4.1,(234)
+121,GOCART 280ML Plastic Straw Portable Children Water Bott...,GOCART,280ML,NaN,₹299,NaN,"Set of 1, Green",3.8,(46)
+122,MuscleBlaze Protein Shaker 650 ml Shaker,MuscleBlaze,650 ml,₹650,₹249,61% off,"Pack of 1, Black, Plastic",4.2,"(11,341)"
+123,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+124,HAANS Fuel Gym 500 ml Shaker,HAANS,500 ml,₹699,₹149,78% off,"Pack of 1, Blue, Plastic",4.3,"(8,214)"
+125,Fitastic Stainless Steel Shaker Bottle with Compartment...,Fitastic,NaN,"₹1,299",₹525,59% off,"Pack of 1, Steel/Chrome, Steel",4.3,(383)
+126,Milton Thermosteel Flip Lid 500 ml Flask,Milton,500 ml,₹670,₹506,24% off,"Pack of 1, Silver, Steel, Copper",4.4,"(1,35,755)"
+127,KenBerry Stainless Steel Vacuum Insulated Water Bottle ...,KenBerry,NaN,₹595,₹425,28% off,"Pack of 1, Black, Steel",4.2,(548)
+128,KenBerry Alpha Duke 750 ml Bottle,KenBerry,750 ml,₹495,₹299,39% off,"Pack of 1, Maroon, Steel",4.1,(714)
+129,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+130,KenBerry Alpha Duke 750 ml Bottle,KenBerry,750 ml,₹495,₹299,39% off,"Pack of 1, Black, Steel",4.1,(714)
+131,Cello venice_v6 1000 ml Bottle,Cello,1000 ml,NaN,NaN,NaN,"Pack of 8, Multicolor, Plastic",4.5,"(2,832)"
+132,Ozone Glacier RED 750 ml Bottle,Ozone,750 ml,₹400,₹285,28% off,"Pack of 1, Red, Steel",4,"(1,596)"
+133,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+134,Milton Hot and Cold Bottle 1800 ml Bottle,Milton,1800 ml,"₹1,820","₹1,547",15% off,"Pack of 1, Silver, Steel",4.4,"(2,412)"
+135,Tuelip Set Of 2 Stainless Steel Water Bottle For School...,Tuelip,NaN,₹799,₹445,44% off,"Set of 2, Blue, Pink",4.2,(106)
+136,Tuelip Designer Mosaic Plastic Fridge Bottle Set for Ho...,Tuelip,NaN,₹799,₹499,37% off,"Set of 6, Multicolor",4.6,(46)
+137,SERENITY water bottle 1000 ml Water Bottles,SERENITY,1000 ml,₹499,₹129,74% off,"Set of 3, Multicolor",NaN,NaN
+138,Milton BARBIE Insulated 900 ml,Milton,900 ml,₹349,₹179,48% off,Pink,4,(40)
+139,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+140,"Strauss Stainless-Steel, Metal Finish 750 ml Sipper",Strauss,750 ml,₹599,₹331,44% off,"Pack of 1, Black, Steel",3.8,(400)
+141,Nova BPA Free 700 ml Shaker,Nova,700 ml,₹599,₹138,76% off,"Pack of 1, Grey, Black, Plastic",4,(316)
+142,SPIDER BOTTLE Unisex Spider Gym Sipper Protein Shaker B...,SPIDER,NaN,₹299,₹188,37% off,"Pack of 1, Black, Plastic",4.2,(5)
+143,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+144,Women's Horlicks Calseal Formula - Caramel Flavour,Women's,NaN,₹299,₹278,7% off,400 g,4.5,"(11,758)"
+145,Tupperware Bottle 500 ml Bottle,Tupperware,500 ml,₹780,₹529,32% off,"Pack of 4, Purple, Green, Yellow, Pink, Plastic",4.3,(53)
+146,Health Mechanic Radha_Kirshna_Copper1000 1000 ml Bottle,Health,1000 ml,₹999,₹439,56% off,"Pack of 1, Copper, Copper",4.1,(420)
+147,Cello Ozone 1000 ml Bottle,Cello,1000 ml,₹148,₹129,12% off,"Pack of 1, Blue, Plastic",4.4,"(10,392)"
+148,Cello Sportigo 1000 ml Bottle,Cello,1000 ml,₹152,₹125,17% off,"Pack of 1, Pink, Plastic",4.2,"(2,566)"
+149,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+150,Nogaiya SPCY15 1000 ml Bottle,Nogaiya,1000 ml,"₹1,299",₹848,34% off,"Pack of 6, Multicolor, Glass",4.5,(100)
+151,SPEEDEX Easy Grip Stainless Steel Fridge Water Bottle O...,SPEEDEX,NaN,₹525,₹398,24% off,"Pack of 1, Orange, Steel",4.1,(349)
+152,AKR Double Wall Vacuum Flask Insulated Thermos Travel W...,AKR,NaN,"₹1,299",₹499,61% off,Black,4.1,(226)
+153,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+154,Familia FW 500 ml Water Bottle,Familia,500 ml,₹299,₹149,50% off,"Set of 1, Silver",4.2,(6)
+155,Marvel Classic 350 ml,Marvel,350 ml,NaN,₹349,NaN,Green,5,(3)
+156,Marvel 3D FIGURINE TUMBLER AVENGERS GALERY HULK 360 ml ...,Marvel,360 ml,NaN,₹399,NaN,"Set of 1, Green",3.5,(31)
+157,QUINERGYS ® Bottle Protein Shaker | Sipper Bottle | Gym...,QUINERGYS,NaN,₹290,₹187,35% off,"Pack of 1, Blue, Tritan, Plastic",4.4,(18)
+158,Nova BPA Free Premium Quality Liquid + Double Protein 5...,Nova,NaN,₹999,₹199,80% off,"Pack of 1, Red, Plastic",4,(63)
+159,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+160,Swiss Military SMF3 600 ml Water Bottle,Swiss,600 ml,₹590,₹325,44% off,"Set of 1, Red",4.8,(4)
+161,Mr.COPPER COPPER MATT FINISH SIPPER WATER BOTTLE 700 ml,Mr.COPPER,700 ml,"₹1,099",₹549,50% off,Brown,4.1,(174)
+162,Marvel SPIDERMAN 350 ml Water Bottle,Marvel,350 ml,NaN,₹249,NaN,"Set of 1, Multicolor",NaN,NaN
+163,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+164,"Tuelip ""Somewhere Something Incredible Is Waiting To Be...",Tuelip,NaN,₹599,₹254,57% off,"Set of 1, White",4.3,(38)
+165,Jaypee Plus SMART 750 ml Shaker,Jaypee,750 ml,₹799,₹195,75% off,"Pack of 1, Blue, Plastic",4.4,"(23,478)"
+166,QUINERGYS ® Sport Protein Shaker Gym Water Bottle with ...,QUINERGYS,NaN,₹300,₹220,26% off,"Pack of 1, Black, Tritan, Plastic",4.1,(180)
+167,DINAARKAN FROSTY GREEN TRANSPARENT GLASS WITH STRAW 450...,DINAARKAN,NaN,"₹1,199",₹291,75% off,"Pack of 1, Green, Glass",3.8,(57)
+168,Biotique Bio Honey Water Pore tightening toner Men & Wo...,Biotique,NaN,₹175,₹122,30% off,120 ml,4.2,"(26,839)"
+169,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+170,Riyansh Joint Free Leak Proof Hammered Copper Water Bot...,Riyansh,NaN,"₹1,469",₹799,45% off,"Pack of 2, Copper, Copper",4.3,(24)
+171,"Milton Duke Thermosteel Hot & Cold Water Bottle, 400 ml...",Milton,400 ml,₹775,₹659,14% off,"Pack of 1, Pink, Steel",4.3,"(2,037)"
+172,Milton 24 hour Hot & Cold Bottle 900 ml Bottle,Milton,900 ml,₹950,₹808,14% off,"Pack of 1, Pink, Steel",4.3,(360)
+173,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+174,Arihant's Stainless Steel 1000ml Fridge Bottle 1000 ml ...,Arihant's,1000ml,₹999,₹625,37% off,"Pack of 3, Silver, Steel",4.1,(269)
+175,MASTERCOOL Curve 900 ml Bottle,MASTERCOOL,900 ml,₹199,₹119,40% off,"Pack of 1, Grey, PET",4.1,"(78,210)"
+176,Luxuria 1000 ML STEEL WATER BOTTLE PACK OF 1 1000 ml Bo...,Luxuria,1000 ML,₹300,₹299,NaN,"Pack of 1, Clear, Steel",4,(54)
+177,Greenchef Classic Alta 600 ml Water Bottle,Greenchef,600 ml,₹299,₹239,20% off,"Set of 1, Silver",4.2,"(1,203)"
+178,Disney Princess 450 ml Water Bottle,Disney,450 ml,NaN,₹299,NaN,"Set of 1, Light Blue, Violet",3.9,(9)
+179,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+180,Rema Water Bottle Stainless Steel Sports Bottle Pure St...,Rema,NaN,₹529,₹299,43% off,"Set of 1, Silver",3.9,"(1,465)"
+181,Gift Collection Smiley Design Bottle With String To Car...,Gift,NaN,₹249,₹159,36% off,"Set of 1, Yellow",3.7,(212)
+182,QUINERGYS ® 500ml Protein Powder Shaker Sports bottle S...,QUINERGYS,500ml,₹751,₹199,73% off,"Pack of 1, Green, Tritan, Plastic",4.3,(257)
+183,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+184,Fitastic Microwave Safe Shaker with Blender Ball Shaker...,Fitastic,NaN,₹499,₹249,50% off,"Pack of 1, Yellow, PET",4.4,"(1,023)"
+185,SPEEDEX Single Walled StainlessSteel Fridge Water Bottl...,SPEEDEX,NaN,₹499,₹331,33% off,"Pack of 1, Silver, Steel",4.2,(71)
+186,Coca-Cola PET Bottle,Coca-Cola,NaN,₹40,₹38,5% off,750 ml,4.5,(919)
+187,"Cello Goldie Stainless Steel Water Bottle Set, 1 Litre,...",Cello,NaN,₹387,₹369,4% off,"Pack of 1, Silver, Steel",NaN,NaN
+188,Milton ATLANTIS 750 ml Bottle,Milton,750 ml,₹822,₹749,8% off,"Pack of 1, Blue, Steel",4.4,"(3,651)"
+189,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+190,Prestige Tattva Copper Bottle TCB01 950 ml Bottle,Prestige,950 ml,₹995,₹818,17% off,"Pack of 1, Brown, Copper",4.1,"(1,804)"
+191,Klick N Shop 100% pure copper water bottle 1000 ml Bott...,Klick,1000 ml,₹979,₹425,56% off,"Pack of 1, Gold, Copper",4.3,(27)
+192,"Milton Duke Thermosteel Hot & Cold Water Bottle, 600 ml...",Milton,600 ml,₹995,₹717,27% off,"Pack of 1, Silver, Steel",4.3,"(2,037)"
+193,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+194,Quick Shel Double Wall Vacuum Insulated Stainless Steel...,Quick,NaN,"₹1,299",₹429,66% off,"Pack of 1, Black, Steel",4.1,"(7,334)"
+195,Nano Nine Sprint 750 ml Water Bottle,Nano,750 ml,NaN,₹225,NaN,"Set of 1, Blue",NaN,NaN
+196,ThemeHouseParty A5 Notebook water bottle 380 ml Water B...,ThemeHouseParty,380 ml,NaN,₹199,NaN,"Set of 1, Red",NaN,NaN
+197,Cello VENICE 1000 ml Water Bottles,Cello,1000 ml,₹520,₹430,17% off,"Set of 5, Multicolor",4.5,(800)
+198,Tuelip Sports Stainless Steel Sipper Water Bottle For S...,Tuelip,NaN,₹699,₹279,60% off,"Set of 1, Black",3.9,(82)
+199,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+200,CRAZYINK Hygienic Air Tight Italian Glass Water/Milk/Ju...,CRAZYINK,NaN,₹699,₹396,43% off,"Pack of 6, Clear, Glass",4.2,"(1,674)"
+201,Milton Duke 1000 24 Hours & Cold Thermosteel Water Bott...,Milton,NaN,"₹1,160",₹999,13% off,"Pack of 1, Silver, Steel",4.4,(8)
+202,Greenchef Classic Alta 600 ml Water Bottle,Greenchef,600 ml,₹299,₹239,20% off,"Set of 1, Silver",4.2,"(1,203)"
+203,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+204,Cello purokids 600 ml Water Bottles,Cello,600 ml,₹349,₹260,25% off,"Set of 2, Red, Pink",4.1,(718)
+205,MG Brand BTS Bangtan Boys Theme Fan Art Sipper Water Bo...,MG,NaN,₹599,₹349,41% off,Multicolor,NaN,NaN
+206,NICK HEROS @ RESQUE MOTU PATLU 400 ml Water Bottle,NICK,400 ml,₹199,₹169,15% off,"Set of 1, Multicolor",3.6,(19)
+207,Iris Shaker Bottle 600 ml Shaker,Iris,600 ml,"₹1,200",₹312,74% off,"Pack of 1, Black, Plastic",4.2,(67)
+208,Style Homez Stainless Steel Water Bottle 1000 ml Sipper...,Style,1000 ml,"₹1,199",₹427,64% off,"Pack of 1, Blue, Steel",4,(85)
+209,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+210,Snipper Spider Shaker ONLY ONE BOTTLE 500 ml Shaker,Snipper,500 ml,₹399,₹199,50% off,"Pack of 1, Multicolor, Plastic",3.6,(139)
+211,Coca-Cola PET Bottle,Coca-Cola,NaN,₹40,₹38,5% off,750 ml,4.4,(920)
+212,Milton Puro 1000 Stainless Steel Fridge Water Bottle Se...,Milton,NaN,₹934,₹696,25% off,"Pack of 2, Silver, Steel",3.6,(83)
+213,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+214,"Tupperware Round 750ml Fliptop Bottle Cool n Chic, Brig...",Tupperware,750ml,₹650,₹615,5% off,"Pack of 2, White, Plastic",4.6,(136)
+215,Cello Polka 1000 ml Bottle,Cello,1000 ml,₹275,₹230,16% off,"Pack of 6, Blue, Plastic",4.1,"(5,462)"
+216,"Milton Atlantis-900 Thermosteel Water Bottle,900 ml,Pin...",Milton,900 ml,₹890,₹810,8% off,"Pack of 1, Pink, Steel",4.2,(713)
+217,Prestige Tattva Copper Bottle TCB01 950 ml Bottle,Prestige,950 ml,₹995,₹818,17% off,"Pack of 1, Brown, Copper",4.1,"(1,804)"
+218,Ozone Glacier 750 ml Bottle,Ozone,750 ml,₹400,₹275,31% off,"Pack of 1, Silver, Steel",4,"(1,933)"
+219,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+220,Cello Puro sports 900 ml Water Bottles,Cello,900 ml,₹459,₹285,37% off,"Set of 2, Green, Orange",4.2,(219)
+221,Tuelip Sports Stainless Steel Water Bottle For School G...,Tuelip,NaN,₹699,₹269,61% off,"Set of 1, Silver",3.8,(126)
+222,Cello purokids 600 ml Water Bottle,Cello,600 ml,₹349,₹179,48% off,"Set of 1, Green",3.9,(595)
+223,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+224,Pigeon PLAYBOY SPORTS 700 ml Water Bottle,Pigeon,700 ml,₹495,₹260,47% off,"Set of 1, SILVER BLUE",4,(738)
+225,Archies Double Walled Plastic Sipper in Black color wit...,Archies,NaN,₹949,₹399,57% off,"Pack of 1, Black, Plastic",4.3,(8)
+226,G&G Spider Smart Protein Shaker Bottle for gym with 2 S...,G&G,NaN,₹299,₹194,35% off,"Pack of 1, Green, Black, Plastic",4.2,(155)
+227,Adrenex by Flipkart BPA Free Gym Bottle with Single Sup...,Adrenex,NaN,₹529,₹259,51% off,"Pack of 1, Blue, Grey, Plastic",4.3,"(20,824)"
+228,Dabur Vatika Health Shampoo Men & Women,Dabur,NaN,₹760,₹532,30% off,1280 ml,4.4,"(2,612)"
+229,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+230,"Tupperware Round 750ml Fliptop Bottle Cool n Chic, Brig...",Tupperware,750ml,₹650,₹615,5% off,"Pack of 2, White, Plastic",4.6,(136)
+231,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹332,26% off,"Pack of 1, Silver, Steel",4.1,(434)
+232,Cello puro sport 900 ml Bottle,Cello,900 ml,₹716,₹500,30% off,"Pack of 4, Red, Green, Blue, Orange, Plastic",4.2,"(13,060)"
+233,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+234,TAGOTT Pure Handmade Copper Apsara Antique Water Bottle...,TAGOTT,NaN,"₹1,199",₹854,28% off,"Pack of 1, Brown, Copper",4.1,(382)
+235,TUHI Stainless Steel Tea Water Coffee Flask Vacuum Bott...,TUHI,NaN,₹999,₹399,60% off,"Pack of 1, Black, Steel",4.2,(62)
+236,Cello H2O 1000 ml Bottle,Cello,1000 ml,₹172,₹155,9% off,"Pack of 1, Black, Plastic",4.3,"(2,796)"
+237,MG Brand BTS Bangtan Boys Theme Fan Art Sipper Water Bo...,MG,NaN,₹599,₹349,41% off,Multicolor,NaN,NaN
+238,HOOM HOOM 400 ml Water Bottle,HOOM,400 ml,NaN,₹349,NaN,"Set of 1, Light Blue",4.3,(23)
+239,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+240,"Milton Aqua-1000 Stainless Steel Water Bottle, 930 ml,S...",Milton,930 ml,₹441,₹369,16% off,"Pack of 1, Silver, Steel",3.9,(892)
+241,Urban Chef Copper 900 ml Bottle,Urban,900 ml,"₹2,595",₹899,65% off,"Pack of 4, Copper, Copper",3.9,(146)
+242,Cello Ozone Plastic Water Bottle Set of 6 1000 ml Bottl...,Cello,1000 ml,NaN,NaN,NaN,"Pack of 6, Multicolor, Plastic",4.4,"(3,515)"
+243,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+244,Milton kool zing 900 ml Bottle,Milton,900 ml,₹260,₹221,15% off,"Pack of 1, Red, Plastic",4.1,(811)
+245,Cello puro junior 600 ml Water Bottles,Cello,600 ml,₹349,₹299,14% off,"Set of 2, Multicolor",4.2,(740)
+246,Barbie Classic 550 ml Water Bottle,Barbie,550 ml,₹499,₹374,25% off,"Set of 1, Blue",3,(23)
+247,"YOUP Paw Patrol, Insulated Stainless Steel 550 ml Water...",YOUP,550 ml,₹999,₹849,15% off,"Set of 1, Pink",4.7,(6)
+248,Tuelip Stainless Steel Double Walled Vacuum Flask For k...,Tuelip,NaN,₹499,₹215,56% off,"Set of 1, Blue",3.5,(63)
+249,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+250,Fitastic  INTENSE Protein Shaker Bottle with Steel Ball...,Fitastic,NaN,₹899,₹299,66% off,"Pack of 1, White, Blue, Tritan",4.2,(57)
+251,ANNA CREATIONS GYM BOTTLE SHAKER 700 ML-BPA FREE 700 ml...,ANNA,700 ML,₹599,₹175,70% off,"Pack of 1, Black, Plastic",3.8,(12)
+252,Thrive Life in a Sport Protein Shaker 500 ml Shaker,Thrive,500 ml,₹299,₹189,36% off,"Pack of 1, Orange, Plastic",4.1,(310)
+253,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+254,Dabur Gulabari Women,Dabur,NaN,₹75,₹65,13% off,250 ml,4.1,(262)
+255,Cello Crystal blue fridge bottle set 1000 ml Bottle,Cello,1000 ml,₹336,₹174,48% off,"Pack of 6, Blue, Plastic",3.7,(375)
+256,Cello h2o 1000 ml Bottle,Cello,1000 ml,₹170,₹155,8% off,"Pack of 1, Blue, Plastic",4.3,"(9,515)"
+257,Nogaiya tkl2 1000 ml Bottle,Nogaiya,1000 ml,"₹1,399",₹848,39% off,"Pack of 6, Clear, Glass",4.4,(70)
+258,Oxyjal Pure 1000 ml bottle 2 250 ml Copper Glass For Dr...,Oxyjal,1000 ml,₹999,₹617,38% off,"Pack of 3, Brown, Copper",3.9,(76)
+259,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+260,Classic Essentials Stainless Steel Puro Water Bottle 10...,Classic,NaN,₹350,₹278,20% off,"Pack of 1, Silver, Steel",3.9,(492)
+261,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹335,37% off,"Pack of 12, Blue, Black, PET",3.8,(148)
+262,Parteet Water Bottle 300 ml Water Bottle,Parteet,300 ml,₹375,₹175,53% off,"Set of 1, Yellow",3.6,(21)
+263,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+264,Disney MINNIE 600 ml Water Bottle,Disney,600 ml,NaN,₹349,NaN,"Set of 1, Red",4.3,(53)
+265,Cello purokids 600 ml Water Bottles,Cello,600 ml,₹349,₹260,25% off,"Set of 2, Red, Pink",4.1,(718)
+266,Nano Nine Sprint 600 ml Water Bottle,Nano,600 ml,NaN,₹189,NaN,"Set of 1, Blue",4,(8)
+267,YAZATI Spider Gym Protein Shaker Bottles With Sipper Li...,YAZATI,NaN,₹250,₹191,23% off,"Pack of 1, Multicolor, Plastic",4.1,(89)
+268,QUINERGYS ™ Protein Shaker Gym Water Bottle with 3 Laye...,QUINERGYS,NaN,₹290,₹194,33% off,"Pack of 1, Black, Tritan, Plastic",4.1,(174)
+269,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+270,Smartshake Revive 750 Ml - Pixel Blue 750 ml Shaker,Smartshake,750 Ml,₹999,₹799,20% off,"Pack of 1, Blue, Plastic",4.6,(8)
+271,Milton Duo 1000 ml Flask,Milton,1000 ml,"₹1,200",₹922,23% off,"Pack of 1, Steel/Chrome, Steel",4.4,"(37,608)"
+272,"Milton Duke Thermosteel Hot & Cold Water Bottle, 400 ml...",Milton,400 ml,NaN,NaN,NaN,"Pack of 1, Silver, Steel",4.3,"(2,037)"
+273,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+274,Milton DUO DLX 1800 1800 ml Bottle,Milton,1800 ml,"₹1,820","₹1,528",16% off,"Pack of 1, Grey, Steel",4.4,(180)
+275,Milton AQUA 1000 950 ml Bottle,Milton,950 ml,₹441,₹355,19% off,"Pack of 1, Silver, Steel",3.9,"(13,040)"
+276,Acetech Stainless Steel Water Bottle 1000 ml Bottle,Acetech,1000 ml,"₹1,224",₹589,51% off,"Pack of 3, Silver, Steel",3.9,"(1,636)"
+277,"Cello Crystal PET Bottle Set, 1 Litre, Set of 6, Black ...",Cello,NaN,₹270,₹212,21% off,"Pack of 6, Multicolor, Plastic",3.7,(334)
+278,Milton ALIVE 750 750 ml Bottle,Milton,750 ml,₹353,₹282,20% off,"Pack of 1, Multicolor, Steel",4.1,"(1,480)"
+279,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+280,Acetech Stainless Steel Water Bottle 1000 ml Bottle,Acetech,1000 ml,"₹1,224",₹589,51% off,"Pack of 3, Silver, Steel",3.9,"(1,636)"
+281,Oxyjal Pure 1000 ml bottle 2 250 ml Copper Glass For Dr...,Oxyjal,1000 ml,₹999,₹617,38% off,"Pack of 3, Brown, Copper",3.9,(76)
+282,Cello H2O STEEL SET OF 2 SILVER 1000 ml Bottle,Cello,1000 ml,₹968,₹740,23% off,"Pack of 2, Silver, Steel",4.1,(942)
+283,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+284,Milton ALIVE 750 750 ml Bottle,Milton,750 ml,₹353,₹282,20% off,"Pack of 1, Multicolor, Steel",4.1,"(1,480)"
+285,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,₹999,₹649,35% off,"Pack of 3, Silver, Steel",4,"(3,916)"
+286,Cello Sportigo 1000 ml Bottle,Cello,1000 ml,NaN,NaN,NaN,"Pack of 1, Orange, Plastic",4.2,"(2,566)"
+287,Tuelip Set Of 2 Sports Stainless Steel Water Bottle For...,Tuelip,NaN,₹799,₹429,46% off,"Set of 2, Red, Blue",4.2,(202)
+288,Cello SPORTS 900 ml,Cello,900 ml,₹344,₹298,13% off,"Blue, Orange",4.2,(389)
+289,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+290,Lion Lender Bubble shape Water bottle 1000 ml Water Bot...,Lion,1000 ml,₹699,₹395,43% off,"Set of 6, Multicolor",4.4,(30)
+291,Disney DORA 600 ml Water Bottle,Disney,600 ml,NaN,₹349,NaN,"Set of 1, White",4.3,(44)
+292,Jaxx Gym Shaker Bottle 400 ml Shaker,Jaxx,400 ml,₹599,₹149,75% off,"Pack of 1, Black",4.4,(484)
+293,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+294,My 60 Minutes Gym Shaker 500 ml Shaker,My,500 ml,₹599,₹179,70% off,"Pack of 1, Black, Plastic",3.9,"(4,478)"
+295,S.Blaze Spider Gym Bottle with 2 Storage Compartments C...,S.Blaze,NaN,₹299,₹199,33% off,"Pack of 1, Green, Plastic",4,(33)
+296,Bragg Organic Raw Apple Cider Vinegar,Bragg,NaN,₹699,₹545,22% off,473 ml,4.2,(842)
+297,Milton Elfin-160 Thermosteel Hot & Cold Water Bottle 16...,Milton,NaN,₹475,₹352,25% off,"Pack of 1, Silver, Steel",4.1,(240)
+298,Tupperware Aquasafe Square Fliptop Bottle Sf4 1000 ml B...,Tupperware,1000 ml,"₹1,220",₹799,34% off,"Pack of 4, Purple, Pink, Plastic",4.4,(633)
+299,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+300,low price Profecional 250 Plastic Hair Spray Bottle 250...,low,NaN,₹299,₹120,59% off,"Pack of 1, Clear, Plastic",4.2,(25)
+301,ADONAI Premium Quality Stainless Steel Fridge Leak Proo...,ADONAI,NaN,₹600,₹255,57% off,"Pack of 1, Silver, Steel",4,(476)
+302,Milton Atlantis 900 ml Bottle,Milton,900 ml,₹890,₹715,19% off,"Pack of 1, Blue, Steel",4.4,(401)
+303,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+304,Cello instyle 1000 ml Bottle,Cello,1000 ml,"₹1,025",₹890,13% off,"Pack of 1, Silver, Copper, Steel",4.3,(24)
+305,Pigeon PLAYBOY SPORTS 700 ml Water Bottle,Pigeon,700 ml,₹495,₹260,47% off,"Set of 1, SILVER BLUE",4,(738)
+306,Marvel SPIDERMAN 500 ml Water Bottle,Marvel,500 ml,NaN,₹299,NaN,"Set of 1, Multicolor",3.4,(14)
+307,The Shine Store Kids 300 ml Water Bottle,The,300 ml,₹499,₹290,41% off,"Set of 1, Pink",NaN,NaN
+308,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹699,₹269,61% off,Yellow,4.1,(379)
+309,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+310,JAIS BOY Life is A Sport Protein Shaker Bottle/Sipper B...,JAIS,NaN,₹599,₹189,68% off,"Pack of 1, Blue, Plastic",3.6,(5)
+311,Fitastic Max Shaker Black 700 ml Shaker,Fitastic,700 ml,₹599,₹249,58% off,"Pack of 1, Black, PET",4.3,(650)
+312,Fitkit FKSB11 Classic 700 ml Shaker,Fitkit,700 ml,₹449,₹149,66% off,"Pack of 1, Orange, Plastic",4.3,"(22,173)"
+313,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+314,Head & Shoulders Smooth and Silky 2-in-1 Shampoo Men & ...,Head,NaN,₹600,₹450,25% off,650 ml,4.4,"(15,351)"
+315,Tupperware Cool N Chic Bottle750 ml 750 ml Bottle,Tupperware,750 ml,₹650,₹480,26% off,"Pack of 2, Multicolor, Plastic",4.4,(372)
+316,Milton 1000ML WATER BOTTLE PACK ( BPA FREE) 1000 ml Bot...,Milton,1000ML,₹270,₹195,27% off,"Pack of 6, Grey, Plastic",4.1,"(1,103)"
+317,KenBerry Alpha Duke - Combo 750 ml Bottle,KenBerry,750 ml,₹990,₹595,39% off,"Pack of 2, Black, Maroon, Steel",4.4,(80)
+318,Tupperware Aquasafe Eco Fliptop Bottle 2000 ml Bottle,Tupperware,2000 ml,₹830,₹618,25% off,"Pack of 2, Pink, Blue, Plastic",4.5,(296)
+319,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+320,"Cello Leak Poof Water Bottle 800 ml, Green 800 ml Shake...",Cello,800 ml,NaN,₹155,NaN,"Pack of 1, Green, Plastic",4.2,"(3,203)"
+321,WOW Skin Science Apple Cider Vinegar Shampoo Men & Wome...,WOW,NaN,₹499,₹358,28% off,300 ml,4.1,"(34,899)"
+322,Butterfly Eco SS 750 ml Bottle,Butterfly,750 ml,₹399,₹249,37% off,"Pack of 1, Silver, Steel",4.2,"(3,178)"
+323,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+324,Milton ATLANTIS 600 Thermosteel Vaccum Insulated Hot & ...,Milton,NaN,₹648,₹599,7% off,"Pack of 1, Pink, Steel",4.4,"(3,651)"
+325,Cello Sportigo 1000 ml Bottle,Cello,1000 ml,₹152,₹148,2% off,"Pack of 1, Orange, Plastic",4.2,"(2,566)"
+326,Milton PRUDENT-1100 Thermosteel Hot & Cold Water Bottle...,Milton,NaN,"₹1,200","₹1,199",NaN,"Pack of 1, Pink, Blue, Steel",4.3,(696)
+327,Tambra COPPER LUXURY BOTTLE 1000 ml Bottle,Tambra,1000 ml,"₹1,499",₹649,56% off,"Pack of 1, Copper, Copper",4.1,(324)
+328,Milton Thermosteel Duo Dlx with handle 24 Hours Hot and...,Milton,NaN,"₹1,775","₹1,540",13% off,"Pack of 1, Steel/Chrome, Steel",4.5,(39)
+329,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+330,Peppa Pig Classic 350 ml,Peppa,350 ml,NaN,₹799,NaN,Multicolor,NaN,NaN
+331,KETSAAL Set Of 6 1000 ml Water Bottles,KETSAAL,1000 ml,"₹1,499",₹579,61% off,"Set of 6, Purple, Red, Yellow, Green",4.2,(26)
+332,Tuelip Tuelip Sports Stainless Steel Water Bottle For S...,Tuelip,NaN,₹699,₹269,61% off,"Set of 1, Red",4,(50)
+333,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+334,Tied Ribbons Plastic Water Bottles with Straw for Child...,Tied,NaN,₹859,₹399,53% off,"Set of 1, Multicolor",2,(1)
+335,QUINERGYS ® Speed Spider Storage Shaker Bottle - Green ...,QUINERGYS,NaN,₹290,₹198,31% off,"Pack of 1, Green, Tritan, Plastic",4.2,(48)
+336,Nike Hyperfuel Water Bottle 18Oz 530 ml Sipper,Nike,530 ml,NaN,₹990,NaN,"Pack of 1, Blue, Plastic",4.3,"(1,644)"
+337,AKR Double Wall Vacuum Insulated Stainless Steel Flask ...,AKR,NaN,₹899,₹449,50% off,"Pack of 1, Blue, Tritan",4.1,(461)
+338,Biotique Bio Neem Margosa Anti - Dandruff Shampoo & Con...,Biotique,NaN,₹170,₹121,28% off,180 ml,4.2,"(3,551)"
+339,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+340,Milton WATER BOTTLE ( BPA FREE ) PACIFIC BLUE ( SET OF ...,Milton,NaN,₹270,₹195,27% off,"Pack of 6, Blue, PET",4.2,(239)
+341,Treo Ivory Premium 1000 Fruit 1000 ml Bottle,Treo,1000 ml,₹235,₹200,14% off,"Pack of 1, Multicolor, Glass",4.2,(177)
+342,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹335,37% off,"Pack of 12, Blue, Black, PET",3.8,(148)
+343,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+344,Milton Pride 600 500 ml Bottle,Milton,500 ml,₹775,₹659,14% off,"Pack of 1, Brown, Steel",4.8,(10)
+345,Cello H2O 1 ml Bottle,Cello,1 ml,₹982,₹657,33% off,"Pack of 6, Multicolor, PET",4.5,(771)
+346,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,"₹2,398",₹599,75% off,"Pack of 3, Silver, Steel",4.1,(99)
+347,Milton Cutie 450 ml Water Bottles,Milton,450 ml,₹349,₹199,42% off,"Set of 2, Multicolor",3.7,(382)
+348,SKI Cool Kids -600 Insulated Bottle 550 ml Water Bottle,SKI,550 ml,₹499,₹349,30% off,"Set of 1, Red",3.5,(10)
+349,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+350,Tuelip Combo Sports Stainless Steel Water Bottle for Sc...,Tuelip,NaN,₹999,₹499,50% off,"Set of 2, Black, Blue",3.8,(19)
+351,Tinytot Kids Series 450 ml Water Bottles,Tinytot,450 ml,₹799,₹299,62% off,"Set of 2, Multicolor",4.4,(5)
+352,Nova BPA Free SH 007 Premium 700 ml Shaker,Nova,700 ml,₹999,₹185,81% off,"Pack of 1, Brown, Plastic",4.1,"(2,783)"
+353,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+354,Spider Smart Protein Shaker Bottle for gym with 2 Stora...,Spider,NaN,₹699,₹189,72% off,"Pack of 1, Black, Plastic",4.1,(414)
+355,Nova BPA Free SH 007 Premium 700 ml Shaker,Nova,700 ml,₹999,₹185,81% off,"Pack of 1, Black, Plastic",4.3,(72)
+356,Epson C13T00V198 Black Ink Bottle,Epson,NaN,NaN,₹309,NaN,NaN,4.3,(74)
+357,UNICOP Pure Copper High Quality Hammer Style Bottle For...,UNICOP,NaN,₹951,₹440,53% off,"Pack of 1, Brown, Copper",4,(51)
+358,Tupperware Aquasafe Bottle 1000 ml Bottle,Tupperware,1000 ml,"₹1,100",₹818,25% off,"Pack of 4, Multicolor, Plastic",4.6,(52)
+359,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+360,ADIDAS TRAINING PERF BOTTLE 750ML 750 ml Sipper,ADIDAS,750ML,₹599,₹569,5% off,"Pack of 1, White, Plastic",4.3,(14)
+361,SPIDER BOTTLE Protein Shaker Bottle for gym with 2 Stor...,SPIDER,NaN,₹299,₹199,33% off,"Pack of 1, Red, Plastic",4.5,(6)
+362,Maison & Cuisine Cold beverages with Straw Crushed Ice ...,Maison,NaN,₹999,₹445,55% off,"Pack of 1, White, Plastic",4.5,(34)
+363,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+364,Biotique Bio Cucumber Pore Tightening Toner Men & Women,Biotique,NaN,₹175,₹168,4% off,120 ml,4.2,"(83,639)"
+365,Milton Copperas 920 ml Bottle,Milton,920 ml,"₹1,075",₹725,32% off,"Pack of 1, Copper, Copper",4,"(1,554)"
+366,Cello Swift 18/8 Stainless Steel Bottle 1500 ml Bottle,Cello,1500 ml,"₹1,699","₹1,375",19% off,"Pack of 1, Silver, Steel",4.1,(79)
+367,"Cello Infuse Plastic Water Bottle Set, 800ml, Set of 2,...",Cello,800ml,₹298,₹232,22% off,"Pack of 2, Multicolor, Plastic",4.2,"(1,552)"
+368,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,"₹2,398",₹599,75% off,"Pack of 3, Silver, Steel",4.1,(99)
+369,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+370,VAPOK Pure Copper Bottle 1 Litre For Drinking Water Lea...,VAPOK,NaN,₹981,₹395,59% off,"Pack of 1, Brown, Copper",4,"(1,481)"
+371,"Milton Atlantis-900 Thermosteel Water Bottle,900 ml, Bl...",Milton,900 ml,NaN,NaN,NaN,"Pack of 1, Black, Steel",4.3,(284)
+372,Tuelip Sports Stainless Water Steel Bottle for School K...,Tuelip,NaN,₹599,₹251,58% off,"Set of 1, Green",4,(184)
+373,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+374,Disney FROZEN 550 ml Water Bottle,Disney,550 ml,NaN,₹299,NaN,"Set of 1, Light Blue",4.1,(107)
+375,"Tuelip Stainless Steel Water Bottle For College,School,...",Tuelip,NaN,₹799,₹429,46% off,"Set of 2, Orange, Green, Blue",3.7,(31)
+376,Milton Pacific 1000 1000 ml,Milton,1000 ml,NaN,₹335,NaN,Blue,5,(3)
+377,Lifestraw 2 Stage Purple 650 ml Sipper,Lifestraw,650 ml,"₹2,790","₹2,299",17% off,"Pack of 1, Purple, Tritan",4.5,(11)
+378,Ipop Retail SPIDER PROTEIN SHAKER BOTTLE 500 ml Shaker,Ipop,500 ml,₹599,₹192,67% off,"Pack of 1, Red, Plastic",4.1,(705)
+379,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+380,ADIDAS Performance 500 ml Sipper,ADIDAS,500 ml,₹499,₹469,6% off,"Pack of 1, White, Plastic",4.1,"(1,075)"
+381,Pears Pure And Gentle Shower Gel,Pears,NaN,NaN,₹135,NaN,250 ml,4.4,"(18,486)"
+382,NIRLON ccum bottle 350 ml Bottle,NIRLON,350 ml,₹499,₹309,38% off,"Pack of 1, Silver, Steel",NaN,NaN
+383,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+384,Treo Ivory Premium 1000 Yellow Floral 1000 ml Bottle,Treo,1000 ml,₹235,₹200,14% off,"Pack of 1, Multicolor, Glass",4.3,(141)
+385,Milton Pretty Pink Water Bottle 1000 ml Bottle,Milton,1000 ml,₹270,₹195,27% off,"Pack of 6, Pink, Plastic",4.1,"(1,603)"
+386,Milton PRUDENT-1100 Thermosteel Hot & Cold Water Bottle...,Milton,NaN,"₹1,200","₹1,199",NaN,"Pack of 1, Pink, Blue, Steel",4.3,(699)
+387,Cello Venice Set of 5 1000 ml Bottle,Cello,1000 ml,₹499,₹425,14% off,"Pack of 5, Multicolor, Plastic",4.5,"(1,338)"
+388,Milton ALIVE 750 750 ml Bottle,Milton,750 ml,₹353,₹301,14% off,"Pack of 1, Black, Steel",4.1,"(1,480)"
+389,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+390,Parteet Bottle 500 ml,Parteet,500 ml,₹800,₹399,50% off,Multicolor,3.8,(140)
+391,Nano Nine Sprint 600 ml Water Bottles,Nano,600 ml,₹378,₹299,20% off,"Set of 2, Green, Blue",3.7,(106)
+392,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹699,₹249,64% off,"Set of 1, Blue",4.1,(31)
+393,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+394,Disney SPIDERMAN 500 ml Water Bottle,Disney,500 ml,NaN,₹249,NaN,"Set of 1, Light Blue",4.3,(15)
+395,Spider Smart Protein Shaker Bottle for gym with 2 Stora...,Spider,NaN,₹699,₹189,72% off,"Pack of 1, Black, Plastic",4.1,(414)
+396,Jaypee Plus SMART 750 ml Shaker,Jaypee,750 ml,₹799,₹189,76% off,"Pack of 1, Orange, Plastic",4.4,"(23,478)"
+397,Jaypee Plus Ace 700 ml Shaker,Jaypee,700 ml,₹170,₹169,NaN,"Pack of 1, Blue, Plastic",4.1,"(1,442)"
+398,DHARA Kachi Ghani Mustard Oil Mustard Oil Plastic Bottl...,DHARA,NaN,₹160,₹136,15% off,1 L,4.4,(718)
+399,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+400,Marvel CARS 500 ml Water Bottle,Marvel,500 ml,₹199,₹169,15% off,"Set of 1, Red, Blue",3.9,(49)
+401,Disney SPIDERMAN 500 ml Water Bottle,Disney,500 ml,NaN,₹249,NaN,"Set of 1, Light Blue",4.3,(15)
+402,ELEMS Beast 600 ml Sipper,ELEMS,600 ml,₹220,₹99,55% off,"Pack of 1, Green, Plastic",3.6,(43)
+403,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+404,Jaypee Plus Ace 700 ml Shaker,Jaypee,700 ml,₹170,₹169,NaN,"Pack of 1, Blue, Plastic",4.1,"(1,442)"
+405,Adrenex by Flipkart BPA Free Gym Bottle with Double Sup...,Adrenex,NaN,₹749,₹279,62% off,"Pack of 1, Blue, Grey, Plastic",4.3,(402)
+406,Bragg Organic Raw Apple Cider Vinegar,Bragg,NaN,₹699,₹545,22% off,473 ml,4.2,(842)
+407,"Milton Shine 1100 Unisteel Single Wall Fridge Bottle, 1...",Milton,NaN,₹509,₹430,15% off,"Pack of 1, Silver, Steel",3.8,(597)
+408,Deva Group Of Industries Pure Set of || 6 Copper Bottle...,Deva,NaN,"₹9,834","₹1,983",79% off,"Pack of 6, Brown, Copper",4,(87)
+409,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+410,Tupperware Water Bottle 2 pcs 750 ml Bottle,Tupperware,750 ml,₹550,₹519,5% off,"Pack of 2, Blue, Pink, Plastic",4.7,(120)
+411,Milton Thermosteel Slender 750 ml Bottle,Milton,750 ml,₹930,₹791,14% off,"Pack of 1, Red, Steel",4.3,"(2,195)"
+412,Milton Atlantis-900 Thermosteel Hot & Cold Tea Water Bo...,Milton,NaN,₹890,₹757,14% off,"Pack of 1, Black, Steel",4.4,"(3,651)"
+413,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+414,"Milton Thermosteel, 24 Hour Hot & Cold, Silver, Duo Del...",Milton,NaN,₹995,₹846,14% off,"Pack of 1, Steel/Chrome, Steel",4.4,(855)
+415,Tuelip Stainless Steel Water Bottle For School Going Ki...,Tuelip,NaN,₹699,₹249,64% off,"Set of 1, Blue",4.1,(31)
+416,NEWBHAGYODAY Spray Water Bottle 600 ml Water Bottle,NEWBHAGYODAY,600 ml,₹999,₹248,75% off,"Set of 1, Light Blue",4.6,(5)
+417,Mistazzo Sipper water bottle 500 ml Water Bottle,Mistazzo,500 ml,₹999,₹499,50% off,"Set of 1, Blue",3.7,(3)
+418,Disney 3D FIGURINE TUMBLER FROZEN FLORAL 360 ml Water B...,Disney,360 ml,NaN,₹399,NaN,"Set of 1, Purple",4.3,(40)
+419,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+420,Chubs I Must Go My Gym Needs Me 700 ml Shaker,Chubs,700 ml,₹199,₹149,25% off,"Pack of 1, Multicolor, Plastic",4,(326)
+421,Vaya Drynk Blue Thermosteel Water bottle with Sipper li...,Vaya,NaN,"₹1,650","₹1,220",26% off,"Pack of 1, Blue, Steel",4.3,(147)
+422,Aura Protein Shaker Bottle For GYM with 2 Storage (PACK...,Aura,NaN,₹499,₹146,70% off,"Pack of 1, Purple, Black, Plastic",4.4,(5)
+423,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+424,Biotique Bio Cucumber Pore Tightening Toner With Himala...,Biotique,NaN,₹168,₹141,16% off,120 ml,4.1,(512)
+425,Tupperware Water Bottle 2 pcs 750 ml Bottle,Tupperware,750 ml,₹550,₹519,5% off,"Pack of 2, Blue, Pink, Plastic",4.7,(120)
+426,Cello h2o 1000 ml Bottle,Cello,1000 ml,₹999,₹639,36% off,"Pack of 6, Red, Green, Blue, Pink, Orange, Grey, Plastic",4.4,(731)
+427,Apeiron Stainless Steel Fridge Water Bottle Silver (Pac...,Apeiron,NaN,"₹2,249",₹599,73% off,"Pack of 2, Silver, Steel",4.3,(13)
+428,Gluman Squeezy BPA Free Sauce & Ketchup Dispenser 390 m...,Gluman,NaN,NaN,₹299,NaN,"Pack of 4, Multicolor, Plastic",4.3,(158)
+429,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+430,KenBerry AlphaDuo - (packof2) 750 ml Bottle,KenBerry,750 ml,₹990,₹525,46% off,"Pack of 2, Black, Steel",4.1,"(1,902)"
+431,Nayasa TURTLE FRIDGE WATER BOTTLE 1000ML 2 PCS SET 1000...,Nayasa,1000ML,₹204,₹198,2% off,"Pack of 2, Multicolor, Plastic",4.2,(88)
+432,"Priceless Deals 300 ml Stainless Steel Water Bottle, St...",Priceless,300 ml,₹999,₹391,60% off,"Set of 1, Pink",4.2,(18)
+433,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+434,Minions Classic 350 ml Water Bottle,Minions,350 ml,₹349,₹261,25% off,"Set of 1, Blue, Yellow",3.7,(14)
+435,Cello Stainless steel 300 ml Water Bottle,Cello,300 ml,NaN,₹594,NaN,"Set of 1, Black",4.2,(10)
+436,Disney STOR 3D FIGURINE TUMBLER SOFIA ENCHANTED WINGS 3...,Disney,NaN,NaN,₹399,NaN,"Set of 1, Purple",4.3,(40)
+437,VOLCO Stainless Steel Sipper Water Bottle for Daily Use...,VOLCO,NaN,₹999,₹399,60% off,"Pack of 1, Red, Black, Steel",3.8,(66)
+438,MedlyCare india BESTProtein Shaker + Fruit Infuser Wate...,MedlyCare,NaN,₹378,₹199,47% off,"Pack of 1, Red, Plastic",4.1,(742)
+439,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+440,Marvel YOUNG ADULT SPORT BOTTLE WITH LOCK MARVEL 640 ml...,Marvel,640 ml,NaN,₹399,NaN,"Set of 1, Blue, Red",NaN,NaN
+441,Disney JUNIOR CARS 500 ml Water Bottle,Disney,500 ml,NaN,₹199,NaN,"Set of 1, Dark Blue",4.1,(12)
+442,Poksi unicorn 300 ml Water Bottle,Poksi,300 ml,₹799,₹399,50% off,"Set of 1, Yellow",NaN,NaN
+443,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+444,Milton Kool Buddy 400 ml Water Bottle,Milton,400 ml,₹199,₹125,37% off,"Set of 1, Pink",3.6,(7)
+445,ADIDAS REAL MADRID BOTTLE 750 ML 750 ml Sipper,ADIDAS,750 ML,₹699,₹669,4% off,"Pack of 1, White, Plastic",4.1,(24)
+446,Cello Infuse Multicolour 800 ml Plastic Fruit Infuser S...,Cello,800 ml,₹468,₹290,38% off,"Pack of 2, Multicolor, Plastic",4.3,(102)
+447,Chubs Whey Shaker 700 ml Shaker,Chubs,700 ml,₹199,₹159,20% off,"Pack of 1, Black, Plastic",4,(508)
+448,Milton Thermosteel Flip lid 1000 ml Flask 1000 ml Flask...,Milton,1000 ml,₹995,₹839,15% off,"Pack of 1, Silver, Steel",4.4,"(2,031)"
+449,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+450,MasterCool Pill Organizer 600 ml Bottle,MasterCool,600 ml,₹499,₹225,54% off,"Pack of 1, Blue, Plastic",4,"(1,194)"
+451,"Cello Pacific Water Bottle, 1 Litre, Set of 5, Assorted...",Cello,NaN,₹540,₹449,16% off,"Pack of 5, Multicolor, PET",4.5,(45)
+452,Cello OZONE PET 1000 ML 1000 Bottle,Cello,1000 ML,₹850,₹582,31% off,"Pack of 6, Multicolor, Plastic",4.4,(808)
+453,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+454,VAPOK Pure Copper Bottle 1 Litre for Drinking Water Lea...,VAPOK,NaN,"₹1,017",₹395,61% off,"Pack of 1, Brown, Copper",3.8,"(3,909)"
+455,Frabble8 SipZo Sipper Single Walled Stainless Steel Fri...,Frabble8,NaN,"₹1,998",₹899,55% off,"Pack of 2, Black, Red, Steel",4.3,(80)
+456,Cello H2O 1000 ml Bottle,Cello,1000 ml,₹336,₹271,19% off,"Pack of 2, Multicolor, Plastic",4.3,"(9,515)"
+457,Disney Dome Tumbler 210 ml Water Bottle,Disney,210 ml,NaN,₹399,NaN,"Set of 1, Light Blue, Transperent",4.3,(6)
+458,Cello Puro Junior 600 ml,Cello,600 ml,₹190,₹160,15% off,Red,4,(111)
+459,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+460,AKR 1 500 ml Water Bottle,AKR,500 ml,₹999,₹499,50% off,"Set of 1, Blue",NaN,NaN
+461,Disney Rapunzel 600 ml Water Bottle,Disney,600 ml,NaN,₹399,NaN,"Set of 1, Violet, Yellow",4,(22)
+462,Nike Sport Water Bottle 570 ml Sipper,Nike,570 ml,NaN,₹850,NaN,"Pack of 1, Black, Plastic",4.3,"(6,263)"
+463,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+464,Fitkit FK67.60.003-04 Classic Bottle Shaker 700 ml Shak...,Fitkit,700 ml,₹449,₹214,52% off,"Pack of 1, Grey, Plastic",4.3,"(22,173)"
+465,Nova BPA Free SH 007 Premium 700 ml Shaker,Nova,700 ml,₹999,₹185,81% off,"Pack of 1, Green, Plastic",4.1,"(2,783)"
+466,Cadbury Bournvita Lil Champs,Cadbury,NaN,₹295,₹280,5% off,500 g,4.5,"(1,808)"
+467,Cello Pet 1000 ml Green Bottle 1000 Bottle,Cello,1000 ml,NaN,₹125,NaN,"Pack of 1, Green, Plastic",4.3,(90)
+468,"Cello Infuse Plastic Water Bottle Set, 800ml, Set of 2,...",Cello,800ml,₹398,₹299,24% off,"Pack of 2, Multicolor, Plastic",4.2,"(1,551)"
+469,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+470,Cello Puro steel-x benz 900 ml Bottle,Cello,900 ml,₹910,₹789,13% off,"Pack of 2, Red, Pink, Plastic, Steel",3.7,(557)
+471,Cello TEXAS FRIDGE 1000 ml Bottle,Cello,1000 ml,₹275,₹212,22% off,"Pack of 6, Pink, Plastic",3.7,(325)
+472,Ozone Glacier BLACK Stainless Steel 750 ml Water Bottle...,Ozone,750 ml,₹400,₹255,36% off,"Pack of 1, Black, Steel",4.2,(58)
+473,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+474,Taluka Stainless Steel Water bottle Sports Bottle 1000 ...,Taluka,NaN,"₹1,300",₹399,69% off,"Pack of 1, Steel/Chrome, Steel",3.5,(222)
+475,Milton KOOL ZING (Orange) 900 ml,Milton,900 ml,₹260,₹209,19% off,Orange,3.9,(183)
+476,"YOUP Peppa Pig, Insulated Stainless Steel 500 ml Water ...",YOUP,500 ml,₹799,₹719,10% off,"Set of 1, Multicolor",NaN,NaN
+477,Tuelip Sports Stainless Steel Water Bottle for School K...,Tuelip,NaN,"₹1,899",₹999,47% off,"Set of 5, Silver",3.3,(4)
+478,"Tuelip Designer Checkered Plastic Fridge Bottle Set, fo...",Tuelip,NaN,₹499,₹299,40% off,"Set of 3, Multicolor",3.9,(22)
+479,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+480,"Kent Stainless Steel Thermos Bottle, 500 ml, Silver 500...",Kent,500 ml,₹800,₹499,37% off,"Pack of 1, Silver, Steel",4.2,(13)
+481,Milton Glassy 750 ml Bottle,Milton,750 ml,₹925,₹787,14% off,"Pack of 1, Pink",4.4,"(17,618)"
+482,Hasbro Classic 360 ml,Hasbro,360 ml,NaN,₹349,NaN,Pink,3.6,(8)
+483,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+484,Tuelip Sports Stainless Steel Water Bottle for School K...,Tuelip,NaN,₹599,₹279,53% off,"Set of 1, Orange",3.9,(48)
+485,Pigeon King Water Bottle 750 ml Water Bottle,Pigeon,750 ml,₹310,₹299,3% off,"Set of 1, Silver",4.1,(266)
+486,"Tuelip Sporty Look For Sports,Gym,Bike Riding ,Hiking,M...",Tuelip,NaN,₹899,₹269,70% off,"Set of 1, Blue",3.9,(702)
+487,Fitastic Tornado White Classic 700 ml Shaker,Fitastic,700 ml,₹499,₹199,60% off,"Pack of 1, White, Plastic",4.3,(455)
+488,Nivia Radar 600 ml Sipper,Nivia,600 ml,₹280,₹213,23% off,"Pack of 1, Blue, Plastic",4,"(6,569)"
+489,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+490,Milton Rex-750 Stainless Steel Water Sipper Bottle 750 ...,Milton,NaN,₹425,₹405,4% off,"Pack of 1, Silver, Steel",3.6,(63)
+491,Epson L3150 Multi-function WiFi Color Printer,Epson,NaN,"₹13,999","₹13,499",3% off,"Black, Ink Bottle",4.2,"(8,555)"
+492,Ozone Glacier BLACK Stainless Steel 750 ml Water Bottle...,Ozone,750 ml,₹400,₹255,36% off,"Pack of 1, Black, Steel",4.2,(58)
+493,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+494,Cello TEXAS FRIDGE 1000 ml Bottle,Cello,1000 ml,₹275,₹212,22% off,"Pack of 6, Pink, Plastic",3.7,(327)
+495,Borosil sportsip black 750 ml Bottle,Borosil,750 ml,"₹1,090",₹999,8% off,"Pack of 1, Black, Steel",4.8,(5)
+496,ADYAHCREATIONS NICKEL PLATING COPPER BOTTLE PACK 1 1000...,ADYAHCREATIONS,NaN,"₹1,499",₹849,43% off,"Pack of 1, Silver, Copper",4,(479)
+497,Cello Swift 18/8 Stainless Steel Bottle 1800 ml Bottle,Cello,1800 ml,"₹1,819","₹1,499",17% off,"Pack of 1, Silver, Steel",4.4,(223)
+498,Milton CAMPA 800 800 ml Bottle,Milton,800 ml,₹500,₹299,40% off,"Pack of 1, Silver, Steel",3.7,(54)
+499,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+500,DAWAN Water Botal 1000 ml Water Bottles,DAWAN,1000 ml,₹599,₹250,58% off,"Set of 3, Red, Green, Blue",3.8,(5)
+501,Tuelip classic 1000 ml Water Bottles,Tuelip,1000 ml,₹799,₹449,43% off,"Set of 6, Multicolor",4,(67)
+502,Cello Texas 1000 ml,Cello,1000 ml,₹249,₹229,8% off,Red,4,(175)
+503,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+504,Disney FROZEN 600 ml Water Bottle,Disney,600 ml,₹349,₹296,15% off,"Set of 1, Light Blue",4.1,(64)
+505,ADIDAS REAL MADRID BOTTLE 750 ML 750 ml Sipper,ADIDAS,750 ML,₹699,₹669,4% off,"Pack of 1, White, Plastic",4.1,(24)
+506,Vaya Drynk Shiny Black Thermosteel Water bottle with Si...,Vaya,NaN,"₹1,650","₹1,220",26% off,"Pack of 1, Black, Steel",4.3,(147)
+507,TRUE INDIAN Spider Shaker Combo Classic Protein Shaker ...,TRUE,NaN,₹799,₹297,62% off,"Pack of 2, Red, Plastic",4.7,(6)
+508,Rasna Native Haat Chyawanprash,Rasna,NaN,₹180,₹108,40% off,500 g,NaN,NaN
+509,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+510,Milton RKG WATER BOTTLE ( BPA FREE ) PACIFIC BLACK ( SE...,Milton,NaN,₹270,₹195,27% off,"Pack of 6, Black, PET",4.1,"(6,718)"
+511,"Milton Charm Thermosteel Hot & Cold Water Bottle, 360 m...",Milton,NaN,NaN,NaN,NaN,"Pack of 1, Pink, Steel",4.2,(106)
+512,Copper + COPPER BOTTLE GIFT SET 1000 ml Bottle,Copper,1000 ml,"₹1,399",₹679,51% off,"Pack of 3, Brown, Copper",4,(196)
+513,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+514,Milton Vertex 500 ml Bottle,Milton,500 ml,₹805,₹755,6% off,"Pack of 1, Blue, Steel",NaN,NaN
+515,Flipkart SmartBuy Designer Mosaic Water Bottle - 1000ml...,Flipkart,1000ml,₹229,₹129,43% off,"Pack of 1, Grey, PET",4.5,"(34,873)"
+516,"Milton Thermosteel Flip Lid Flask, Silver 500 ml Bottle",Milton,500 ml,₹610,₹552,9% off,"Pack of 1, Silver, Steel",4.3,(441)
+517,Exoctic Silver Kool Kids Series 600 ml,Exoctic,600 ml,₹599,₹427,28% off,Multicolor,NaN,NaN
+518,Nayasa with Glass 1000 ml,Nayasa,1000 ml,₹710,₹255,64% off,Multicolor,3.9,(33)
+519,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+520,"Milton Charm Thermosteel Hot & Cold Water Bottle, 360 m...",Milton,NaN,NaN,NaN,NaN,"Pack of 1, Pink, Steel",4.2,(106)
+521,SPEEDEX Easy Grip Stainless Steel Fridge Water Bottle O...,SPEEDEX,NaN,₹525,₹409,22% off,"Pack of 1, Silver, Steel",4.1,(349)
+522,Milton elfin300 350 ml Bottle,Milton,350 ml,₹545,₹464,14% off,"Pack of 1, Silver, Steel",4.3,(241)
+523,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+524,Milton duo dlx 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹998,16% off,"Pack of 1, Silver, Steel",4.6,(20)
+525,Marvel AVENGERS 470 ml Water Bottle,Marvel,470 ml,NaN,₹299,NaN,"Set of 1, Multicolor",4.1,(7)
+526,Smiggle Far away 650 ml Water Bottle,Smiggle,650 ml,₹999,₹748,25% off,"Set of 1, Blue",NaN,NaN
+527,Tuelip Sports Stainless Steel Water Bottle for School K...,Tuelip,NaN,₹599,₹279,53% off,"Set of 1, Orange",3.9,(47)
+528,Marvel SPIDERMAN 350 ml Water Bottle,Marvel,350 ml,NaN,₹149,NaN,"Set of 1, Red, Blue",3.8,(12)
+529,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+530,Milton Rex-750 Stainless Steel Water Sipper Bottle 750 ...,Milton,NaN,₹425,₹405,4% off,"Pack of 1, Silver, Steel",3.6,(63)
+531,Nivia Radar 600 ml Sipper,Nivia,600 ml,₹280,₹213,23% off,"Pack of 1, Blue, Plastic",4,"(6,569)"
+532,Fitastic Tornado White Classic 700 ml Shaker,Fitastic,700 ml,₹499,₹199,60% off,"Pack of 1, White, Plastic",4.3,(455)
+533,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+534,Epson L3150 Multi-function WiFi Color Printer,Epson,NaN,"₹13,999","₹13,499",3% off,"Black, Ink Bottle",4.2,"(8,555)"
+535,Mintage Multipurpose Bottle Hot N Cold Splash 250 ml Bo...,Mintage,250 ml,"₹1,100",₹599,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+536,Astyler Transparent Spray Bottle Mist Sprayer 50 ml Bot...,Astyler,50 ml,₹384,₹125,67% off,"Pack of 2, Clear, Plastic",3.8,(546)
+537,Prestige Tattva Copper Bedroom Bottle 01 900 ml Bottle,Prestige,900 ml,"₹1,095",₹949,13% off,"Pack of 1, Brown, Copper",4.1,(265)
+538,Milton elfin160 160 ml Bottle,Milton,160 ml,₹436,₹418,4% off,"Pack of 1, Silver",4.4,(131)
+539,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+540,Cello H2O STEEL SILVER 1000 ml Bottle,Cello,1000 ml,₹484,₹379,21% off,"Pack of 1, Silver, Steel",4.1,"(1,732)"
+541,"Milton Aqua Stainless Steel Fridge Water Bottle 750 ml,...",Milton,750 ml,₹788,₹649,17% off,"Pack of 2, Silver, Steel",4,"(1,761)"
+542,Tuelip Opaque Series 750 ml Water Bottle,Tuelip,750 ml,₹599,₹249,58% off,"Set of 1, Green",4.3,(78)
+543,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+544,Marvel 3D FIGURINE TUMBLER AVENGERS GALERY IRON MAN 360...,Marvel,NaN,₹399,₹339,15% off,"Set of 1, Red, Yellow",3.5,(12)
+545,"Tuelip Sporty Look For Sports,Gym,Bike Riding ,Hiking,M...",Tuelip,NaN,₹899,₹269,70% off,"Set of 1, Blue",3.9,(701)
+546,Hasbro Classic 360 ml,Hasbro,360 ml,NaN,₹349,NaN,Pink,3.6,(8)
+547,Fitastic Tornado  Classic 500 ml Shaker  BPA Free with ...,Fitastic,500 ml,₹499,₹165,66% off,"Pack of 1, Red, PET",4.3,(103)
+548,ADIDAS REAL MADRID BOTTLE 750 ML 750 ml Sipper,ADIDAS,750 ML,₹699,₹669,4% off,"Pack of 1, White, Plastic",4.1,(24)
+549,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+550,Vaya Drynk Shiny Black Thermosteel Water bottle with Si...,Vaya,NaN,"₹1,650","₹1,220",26% off,"Pack of 1, Black, Steel",4.3,(147)
+551,Rasna Native Haat Chyawanprash,Rasna,NaN,₹180,₹108,40% off,500 g,NaN,NaN
+552,Home Turf Bubble Shape Designer Water Bottle For School...,Home,NaN,"₹1,499",₹399,73% off,"Pack of 6, Multicolor, Plastic",4.8,(6)
+553,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+554,Oxyjal Pure Copper Bottle Brain Regulating Women's Mens...,Oxyjal,NaN,"₹1,524","₹1,209",20% off,"Pack of 3, Gold, Copper",4.3,(12)
+555,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹843,23% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+556,Milton Thermosteel Jolly 375 300 ml Bottle,Milton,300 ml,₹640,₹620,3% off,"Pack of 1, Beige, Steel",4.3,(76)
+557,Tuelip most beautiful flower design digital printed pur...,Tuelip,NaN,"₹2,199",₹699,68% off,"Pack of 1, White, Copper",4.1,(312)
+558,Astyler New Clear Transparent Spray Bottle 220 ml Bottl...,Astyler,220 ml,₹299,₹66,77% off,"Pack of 1, Clear, Plastic",3.5,(167)
+559,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+560,SPEEDEX Easy Grip Stainless Steel Fridge Water Bottle O...,SPEEDEX,NaN,₹525,₹409,22% off,"Pack of 1, Red, Steel",4.1,(349)
+561,Milton bottle 920 ml Bottle,Milton,920 ml,₹431,₹421,2% off,"Pack of 1, Silver, Steel",3.7,(402)
+562,Milton ATLANTIS 750 ml Bottle,Milton,750 ml,₹890,₹757,14% off,"Pack of 1, Blue, Steel",4.4,"(3,651)"
+563,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+564,"AVORA Oil And Vinegar 500 ml Cruet, Seasoning Set For D...",AVORA,500 ml,₹699,₹260,62% off,"Pack of 2, Clear, Glass",4.5,(10)
+565,Milton AQUA 1000 ML UNISTEEL FLASK 1000 ml Bottle,Milton,1000 ML,₹441,₹319,27% off,"Pack of 1, Silver, Steel",3.9,(55)
+566,Baskety Collapsible Water Bottle (Blue) 550 ml Bottle,Baskety,550 ml,₹999,₹499,50% off,"Pack of 1, Blue, Plastic",NaN,NaN
+567,Deepower Hello 280 ml Water Bottle,Deepower,280 ml,₹699,₹299,57% off,"Set of 1, Orange",3.9,(32)
+568,DAWAN Water Botal 1000 ml Water Bottles,DAWAN,1000 ml,₹599,₹250,58% off,"Set of 3, Red, Green, Blue",3.8,(5)
+569,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+570,Cello Texas 1000 ml,Cello,1000 ml,₹249,₹229,8% off,Red,4,(175)
+571,Tuelip 2 Set Sports Stainless Steel Bottle for School K...,Tuelip,NaN,₹999,₹479,52% off,"Set of 2, Green, Blue",3.8,(19)
+572,TRUE INDIAN Spider Shaker Combo Classic Protein Shaker ...,TRUE,NaN,₹799,₹297,62% off,"Pack of 2, Red, Plastic",4.7,(6)
+573,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+574,REEBOK Water Bottle - 500ml - Black 500 ml Sipper,REEBOK,500ml,₹749,₹599,20% off,"Pack of 1, Black, Plastic",3.8,(118)
+575,Blender Bottle Classic with Loop 825 ml Shaker,Blender,825 ml,₹649,₹585,9% off,"Pack of 1, Pink, Plastic",4.5,(414)
+576,Hershey's Spreads Cocoa with Almond 350 g,Hershey's,NaN,₹275,₹249,9% off,NaN,4.4,"(5,112)"
+577,Tupperware Large Bottle Eco Bottle 2 L set of 2 2000 ml...,Tupperware,2000 ml,₹830,₹675,18% off,"Pack of 2, Purple, Plastic",4.4,(42)
+578,Difino Stainless Steel Water Bottle 1 Liter Sliver 1000...,Difino,NaN,"₹1,596",₹999,37% off,"Pack of 4, Silver, Steel",4.2,(51)
+579,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+580,Copper + COPPER BOTTLE GIFT SET 1000 ml Bottle,Copper,1000 ml,"₹1,399",₹679,51% off,"Pack of 3, Brown, Copper",4,(195)
+581,Flipkart SmartBuy Pure copper 1000ml with two 225ml gla...,Flipkart,1000ml,"₹2,999",₹899,70% off,"Pack of 3, Copper, Copper",3.7,(54)
+582,Difino Stainless Steel Water Bottle 1 Liter Sliver 1000...,Difino,NaN,"₹1,596",₹999,37% off,"Pack of 4, Silver, Steel",4.3,(6)
+583,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+584,Difino Stainless Steel Water Bottle 1 Liter Sliver 1000...,Difino,NaN,"₹1,596",₹999,37% off,"Pack of 4, Silver, Steel",NaN,NaN
+585,"YOUP Peppa Pig, Non-Insulated Stainless Steel 750 ml Wa...",YOUP,750 ml,₹499,₹474,5% off,"Set of 1, Green",NaN,NaN
+586,Disney FROZEN 600 ml Water Bottle,Disney,600 ml,₹349,₹296,15% off,"Set of 1, Light Blue",4.1,(63)
+587,Tuelip classic 1000 ml Water Bottles,Tuelip,1000 ml,₹799,₹449,43% off,"Set of 6, Multicolor",4,(67)
+588,Borosil stainless Steel hydra trek vacuum Insulated fla...,Borosil,NaN,₹875,₹775,11% off,"Set of 1, Yellow",4.5,(35)
+589,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+590,Iris Automatic Portable Multi-Function 600 ml Shaker,Iris,600 ml,"₹3,000","₹1,566",47% off,"Pack of 1, Black, Plastic",5,(4)
+591,Polo Lifetime Stainless Steel Shaker for Gym with Extra...,Polo,NaN,₹899,₹679,24% off,"Pack of 1, Black, Steel",4.2,(70)
+592,My 60 Minutes Gym Shaker 500 ml Shaker,My,500 ml,₹599,₹169,71% off,"Pack of 1, Black, Plastic",3.9,"(4,478)"
+593,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+594,Himalaya Anti Hair Fall Shampoo Men & Women,Himalaya,NaN,₹230,₹211,8% off,400 ml,4.3,"(45,942)"
+595,Tupperware Fliptop Bottle 1000 ml Bottle,Tupperware,1000 ml,"₹1,340","₹1,273",5% off,"Pack of 4, Pink, Yellow, Purple, Green, Plastic",4.8,(50)
+596,Milton Thermosteel Vacuum Insulated bottle 747 ml Bottl...,Milton,747 ml,"₹1,020",₹900,11% off,"Pack of 1, Blue, Steel",4,(3)
+597,"Borosil Hydra Prism Stainless Steel Flask, 650 ml, Blue...",Borosil,650 ml,₹825,₹749,9% off,"Pack of 1, Blue, Steel",3.9,(15)
+598,Milton New Smarty 900 730 ml Bottle,Milton,730 ml,₹950,₹789,16% off,"Pack of 1, Silver, Steel",3.6,(5)
+599,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+600,HAANS Cyclone Shakers Combo(set of 2) 1000 ml Shaker,HAANS,1000 ml,"₹1,499",₹399,73% off,"Pack of 2, Green, Grey, Plastic",4.2,"(14,442)"
+601,Epson L3150 Multi-function WiFi Color Printer,Epson,NaN,"₹13,999","₹13,499",3% off,"Black, Ink Bottle",4.2,"(8,555)"
+602,Difino Stainless Steel Water Bottle 1 Liter Sliver 1000...,Difino,NaN,"₹1,596",₹999,37% off,"Pack of 4, Silver, Steel",4.2,(51)
+603,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+604,Milton kool zing 900 ml Bottle,Milton,900 ml,₹260,₹221,15% off,"Pack of 1, Orange, Plastic",4,(116)
+605,Borosil colour crush blue- 700 700 ml Bottle,Borosil,700 ml,₹890,₹829,6% off,"Pack of 1, Blue, Steel",4.4,(66)
+606,ARDAKI WB_06 1000 ml Bottle,ARDAKI,1000 ml,₹599,₹300,49% off,"Pack of 6, Red, Blue, Green, Plastic",4.6,(7)
+607,allfree Printed copper bottel 1 1000 ml Bottle,allfree,1000 ml,₹999,₹547,45% off,"Pack of 1, Multicolor, Copper",NaN,NaN
+608,Cello Ozone Plastic Water Bottle Set of 3 1000 ml Bottl...,Cello,1000 ml,₹444,₹321,27% off,"Pack of 3, Multicolor, Plastic",4.1,(262)
+609,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+610,RAW RUNNER CLASSIC 600 ml Water Bottle,RAW,600 ml,₹699,₹244,65% off,"Set of 1, Pink",NaN,NaN
+611,Ganesh Exports Classic Cap 500 ml Water Bottle,Ganesh,500 ml,₹100,₹90,10% off,"Set of 1, Pink",3,(4)
+612,shyam kripa COPPER 0 1000 ml,shyam,1000 ml,"₹1,249",₹329,73% off,Brown,NaN,NaN
+613,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+614,Dubblin ROCK AND ROLL 220 ml,Dubblin,220 ml,₹599,₹555,7% off,Pink,4.6,(10)
+615,TrendZone Spider 3 in 1 Protein Milk Plastic Shaker.500...,TrendZone,NaN,₹290,₹198,31% off,"Pack of 1, Multicolor, Tritan, Plastic",4.2,(33)
+616,Contigo Shaker 720 ml Shaker,Contigo,720 ml,"₹1,999","₹1,499",25% off,"Pack of 1, Grey, Blue, Plastic",NaN,NaN
+617,Red Moments Silicone Portable Leak Proof Folding 180-50...,Red,NaN,"₹1,299",₹550,57% off,"Pack of 1, Grey, Steel",NaN,NaN
+618,Rasna Native Haat Chyawanprash,Rasna,NaN,₹180,₹108,40% off,500 g,NaN,NaN
+619,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+620,Butterfly Eco SS 750 ml Bottle,Butterfly,750 ml,₹780,₹439,43% off,"Pack of 2, Silver, Steel",4.1,"(12,509)"
+621,Milton Pacific Red and Purple Plastic Fridge Water Bott...,Milton,NaN,₹540,₹351,35% off,"Pack of 12, Purple, Red, Plastic",4.2,"(2,311)"
+622,Cello H2O 1000 ml Bottle,Cello,1000 ml,NaN,NaN,NaN,"Pack of 1, Silver, Steel",4.1,(283)
+623,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+624,Milton AQUA 1000 930 ml Bottle,Milton,930 ml,₹441,₹355,19% off,"Pack of 1, Blue, Steel",3.9,"(13,041)"
+625,"AVORA Oil And Vinegar 500 ml Cruet, Seasoning Set For D...",AVORA,500 ml,₹699,₹260,62% off,"Pack of 2, Clear, Glass",4.5,(10)
+626,Rema Sports-Pot-700-2 700 ml Bottle,Rema,700 ml,₹999,₹549,45% off,"Pack of 2, Silver, Steel",NaN,NaN
+627,TOUGH AYURVEDA HEALTH BENEFIT COPPER BOTTLE 1000 ml Wat...,TOUGH,1000 ml,"₹1,499",₹710,52% off,"Set of 1, Blue",4,(2)
+628,Rema Stricker 600 Stainless Steel Water Bottle For Scho...,Rema,NaN,₹299,₹180,39% off,"Set of 1, Red",3.4,(8)
+629,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+630,MG Brand BTS Bangtan Boys Theme Fan Art Sipper Water Bo...,MG,NaN,₹599,₹349,41% off,Multicolor,3,(3)
+631,VIVA h2o Insulated Double Wall Hot & Cold 1000 ml Water...,VIVA,1000 ml,₹999,₹849,15% off,"Set of 1, Blue",4.8,(14)
+632,ANNA CREATIONS GYM BOTTLE SHAKER 700 ML- 700 ml Shaker,ANNA,700 ML,₹599,₹175,70% off,"Pack of 1, Black, Plastic",3.6,(14)
+633,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+634,Emmquor Gym Shaker and Sipper - Life Is A Sport - With ...,Emmquor,NaN,₹256,₹134,47% off,"Pack of 1, Multicolor, Plastic",4,(40)
+635,QUINERGYS ™ Spider 3 in 1 Protein Milk Plastic Shaker.5...,QUINERGYS,NaN,₹374,₹199,46% off,"Pack of 1, Green, Tritan, Plastic",4.1,(97)
+636,Milton Thermosteel Flip lid 1000 ml Flask 1000 ml Flask...,Milton,1000 ml,₹995,₹839,15% off,"Pack of 1, Silver, Steel",4.4,"(2,031)"
+637,Milton KIP - SIP BOTTLE 1000 ml Bottle,Milton,1000 ml,₹370,₹199,46% off,"Pack of 2, Multicolor, Plastic",4,(83)
+638,"CRAZYINK Hygienic Air Tight Italian Glass Water Bottle,...",CRAZYINK,NaN,"₹1,299",₹404,68% off,"Pack of 6, Clear, Glass",4.2,"(3,185)"
+639,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+640,My 60 Minutes Gym Shaker 500 ml Shaker,My,500 ml,₹799,₹149,81% off,"Pack of 1, Black, Plastic",3.9,"(4,478)"
+641,Spider Bottle Spider 3in 1 Protein Milk Plastic Shaker....,Spider,NaN,₹250,₹197,21% off,"Pack of 1, Green, Plastic",4.2,(993)
+642,ADIDAS FOOTBALL MANCHESTER UNITED WATER BOTTLE 750 ml S...,ADIDAS,750 ml,₹599,₹569,5% off,"Pack of 1, Red, Plastic",4,(26)
+643,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+644,Cadbury Bournvita Health,Cadbury,NaN,NaN,₹223,NaN,500 g,4.5,"(4,876)"
+645,Cello Swift bottles 500 ml Bottle,Cello,500 ml,₹689,₹670,2% off,"Pack of 1, Silver, Steel",4.4,(370)
+646,Cello Water Bottle (Pack Of 6) 1000 ml Bottle,Cello,1000 ml,₹275,₹230,16% off,"Pack of 6, Blue, Plastic",3.9,(48)
+647,Flipkart SmartBuy Digital printed pure copper Premium w...,Flipkart,NaN,"₹3,999","₹1,099",72% off,"Pack of 2, Multicolor, Copper",4.1,(74)
+648,Tupperware Round Fliptop Bottle Cool n Chic Rise n Shin...,Tupperware,NaN,₹650,₹589,9% off,"Pack of 2, Red, Blue, Plastic",4.6,(328)
+649,Greenchef Kiyo Thermosteel stainless steel 1000 ml Bott...,Greenchef,1000 ml,"₹1,059",₹699,33% off,"Pack of 1, Silver, Steel",4.3,"(2,624)"
+650,Milton HAWK 750 ml Bottle,Milton,750 ml,₹364,₹269,26% off,"Pack of 1, Pink, Steel",4.2,"(1,850)"
+651,Milton Oscar Red 1000 ml Bottle,Milton,1000 ml,₹270,₹195,27% off,"Pack of 6, Red",4,(346)
+652,Rema Stricker 600 Stainless Steel Water Bottle For Scho...,Rema,NaN,₹299,₹180,39% off,"Set of 1, Red",3.4,(8)
+653,STARRY WaterBottle81 1000 ml Bottle,STARRY,1000 ml,₹499,₹239,52% off,"Pack of 1, Silver, Steel",NaN,NaN
+654,MG Brand BTS Bangtan Boys Theme Fan Art Sipper Water Bo...,MG,NaN,₹599,₹349,41% off,Multicolor,NaN,NaN
+655,Tied Ribbons World's Greatest Brother Printed Gift for ...,Tied,NaN,"₹1,099",₹399,63% off,"Set of 1, White",4,(3)
+656,Cello Cello H2O 1000 ml Water Bottles,Cello,1000 ml,₹920,₹661,28% off,"Set of 6, Multicolor",4.4,(111)
+657,Strauss Recharge Bottle 600 ml Shaker,Strauss,600 ml,₹449,₹242,46% off,"Pack of 1, Orange, Plastic",4.4,(122)
+658,QUINERGYS ™ Spider 3 in 1 Protein Milk Plastic Shaker.5...,QUINERGYS,NaN,₹374,₹199,46% off,"Pack of 1, Green, Tritan, Plastic",4.1,(97)
+659,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+660,"STAR GLARE StarGlare SHAKE ME BOTTLE FOR, PROTEIN / SIP...",STAR,NaN,₹499,₹250,49% off,"Pack of 1, Multicolor, Plastic",NaN,NaN
+661,Epson L3150 Multi-function WiFi Color Printer,Epson,NaN,"₹13,999","₹13,499",3% off,"Black, Ink Bottle",4.2,"(8,555)"
+662,Milton DEVIS FRIDGE WATER BOTTLE 1000 ml Bottle,Milton,1000 ml,₹485,₹289,40% off,"Pack of 4, Red, Blue, Green, Pink, PET",4,(90)
+663,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+664,Borosil BORO _1 1000 ml Bottle,Borosil,1000 ml,"₹1,199",₹999,16% off,"Pack of 1, Red, Steel",4.4,(32)
+665,Tupperware Round Fliptop Bottle Cool n Chic Rise n Shin...,Tupperware,NaN,₹650,₹589,9% off,"Pack of 2, Red, Blue, Plastic",4.6,(328)
+666,Tupperware Bottle 1.5 L set of 2 1400 ml Bottle,Tupperware,1400 ml,₹700,₹595,15% off,"Pack of 2, Purple, Blue, Plastic",4.5,(505)
+667,Cello puro sport 900 ml Bottle,Cello,900 ml,NaN,₹179,NaN,"Pack of 1, Red, Plastic",4.1,"(7,912)"
+668,"Pexpo 900 ML Wall Bottle,750 ML Bottle 500 ML Bottle, 1...",Pexpo,900 ML,"₹2,995","₹1,049",64% off,"Pack of 5, Silver, Red, Blue, Steel",3.3,(38)
+669,SKY ENTERPRISES Copper Water Bottle 1000 ml Bottle,SKY,1000 ml,"₹1,299",₹420,67% off,"Pack of 1, Copper, Copper",NaN,NaN
+670,Disney Classic 350 ml,Disney,350 ml,NaN,₹349,NaN,Multicolor,3.9,(18)
+671,MG Brand Blackpink Kpop Theme Fan Art Sipper Water Bott...,MG,NaN,₹599,₹349,41% off,White,NaN,NaN
+672,Tuelip Tuelip Sports Stainless Steel Water Bottle For S...,Tuelip,NaN,₹699,₹269,61% off,"Set of 1, Black",3.5,(34)
+673,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,017)"
+674,szonee Doremon Cartoon Printed BPA Free Water Bottle fo...,szonee,NaN,₹399,₹148,62% off,"Set of 1, Blue",NaN,NaN
+675,SPEEDEX Easy Grip Single Walled Stainless Steel Water B...,SPEEDEX,NaN,₹525,₹409,22% off,"Pack of 1, Black, Steel",4.1,(191)
+676,Cello Infuse Multicolour 800 ml Plastic Fruit Infuser S...,Cello,800 ml,₹996,₹449,54% off,"Pack of 4, Multicolor, Plastic",4.3,(205)
+677,ADIDAS WATER BOTTLE BPA-FREE WITH AN ERGONOMIC DESIGN 7...,ADIDAS,NaN,"₹1,199",₹798,33% off,"Pack of 1, Black, Plastic",NaN,NaN
+678,Rasna Native Haat Chyawanprash,Rasna,NaN,₹180,₹108,40% off,500 g,NaN,NaN
+679,Greenchef Kiyo Thermosteel SS 500 ml Bottle,Greenchef,500 ml,₹699,₹449,35% off,"Pack of 1, Silver, Steel",4.3,(645)
+680,MG Brand Blackpink Kpop Theme Fan Art Sipper Water Bott...,MG,NaN,₹599,₹349,41% off,White,NaN,NaN
+681,Marvel Spiderman 350 ml Water Bottle,Marvel,350 ml,NaN,₹399,NaN,"Set of 1, Red, Blue",3.9,(36)
+682,My 60 Minutes Gym Shaker 500 ml Shaker,My,500 ml,₹599,₹149,75% off,"Pack of 1, Multicolor, Plastic",3.9,"(4,478)"
+683,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+684,Iris Spider Shaker Bottle 500 ml Shaker,Iris,500 ml,₹999,₹197,80% off,"Pack of 1, Multicolor, Plastic",4.2,(330)
+685,TrueShake Spider Protein Gym Shaker Bottle for Gym 500 ...,TrueShake,NaN,₹358,₹205,42% off,"Pack of 1, Blue, Plastic",4.2,(39)
+686,Milton Thermosteel Flip lid 1000 ml Flask,Milton,1000 ml,₹995,₹849,14% off,"Pack of 1, Silver, Steel, Copper",4.4,"(1,35,755)"
+687,Oxyjal Pure 1000 ml bottle 4 250 ml Copper Glass For Dr...,Oxyjal,1000 ml,₹999,₹899,10% off,"Pack of 5, Brown, Copper",4.3,(3)
+688,"Buffy 1.5 L Bpa Free Gallon Water Bottle, Sports Fitnes...",Buffy,NaN,₹750,₹229,69% off,"Pack of 1, Black, Plastic",4.5,(40)
+689,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+690,Milton HAWK 750 ml Bottle,Milton,750 ml,₹364,₹335,7% off,"Pack of 1, Silver, Steel",4.2,"(1,850)"
+691,Nesta Stainless Steel Fridge Water Bottle/Refrigerator ...,Nesta,NaN,"₹1,199",₹699,41% off,"Pack of 3, Steel/Chrome, Steel",4.1,(311)
+692,ADYAH Creations GIFT PACK DIWALI COPPER WATER BOTTLE WI...,ADYAH,NaN,"₹3,499","₹1,199",65% off,"Pack of 3, Copper, Copper",NaN,NaN
+693,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+694,Parteet Glass Cartoon Character Shape Bottle 350 ml - f...,Parteet,350 ml,₹500,₹329,34% off,"Pack of 1, Multicolor, Glass",4.3,(37)
+695,kitchengram 45 100 ml Water Bottle,kitchengram,100 ml,₹299,₹79,73% off,"Set of 1, White",NaN,NaN
+696,szonee Doremon Cartoon Printed BPA Free Water Bottle fo...,szonee,NaN,₹399,₹148,62% off,"Set of 1, Blue",NaN,NaN
+697,"YOUP Peppa Pig, Insulated Stainless Steel 550 ml Water ...",YOUP,550 ml,₹999,₹849,15% off,"Set of 1, Red",4.3,(4)
+698,Uniglobal Business Alkaline 650 ml Water Bottle,Uniglobal,650 ml,"₹1,499",₹842,43% off,"Set of 1, Light Blue",NaN,NaN
+699,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+700,ADIDAS WATER BOTTLE BPA-FREE WITH AN ERGONOMIC DESIGN 7...,ADIDAS,NaN,"₹1,199",₹798,33% off,"Pack of 1, Black, Plastic",NaN,NaN
+701,Adrenex by Flipkart BPA Free Gym Bottle with Mixer Ball...,Adrenex,NaN,₹569,₹259,54% off,"Pack of 1, Grey, Orange, Plastic",4.3,"(1,852)"
+702,S.Blaze Amazing Black & Blue Colour 500ml Protein Shake...,S.Blaze,500ml,₹250,₹160,36% off,"Pack of 1, Blue, Plastic",4,(162)
+703,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+704,Park Avenue Beer Shiny and Bouncy Shampoo Men & Women,Park,NaN,₹250,₹199,20% off,350 ml,4.2,"(15,604)"
+705,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,"₹2,398",₹649,72% off,"Pack of 3, Silver, Steel",4,(510)
+706,"shopguru india Lyra Glass Milk, Water and Juice Bottle ...",shopguru,NaN,"₹2,080",₹409,80% off,"Pack of 6, Clear, Glass",4.1,(83)
+707,Cello H2O Unbreakable 1000 ml Bottle,Cello,1000 ml,₹961,₹649,32% off,"Pack of 6, Multicolor, Plastic",4.4,"(5,470)"
+708,ATLASWARE STAINLESS STEEL MADE IN INDIA VACUUM BOTLLE 2...,ATLASWARE,NaN,"₹1,600","₹1,389",13% off,"Pack of 1, Steel/Chrome, Steel",4.2,(38)
+709,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+710,Pigeon King Water Bottle 750ml 750 ml Bottle,Pigeon,750ml,₹310,₹259,16% off,"Pack of 1, Silver, Steel",4,(562)
+711,ATLASWARE STAINLESS STEEL VACUUM BOTLLE 2000 ML STEEL F...,ATLASWARE,2000 ML,"₹1,600","₹1,399",12% off,"Pack of 1, Silver, Steel",4.4,(44)
+712,Cello Ozone 1000 ml Water Bottles,Cello,1000 ml,₹426,₹370,13% off,"Set of 3, Multicolor",4.3,(130)
+713,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+714,Tera13 unicorn 500 ml Water Bottles,Tera13,500 ml,₹599,₹459,23% off,"Set of 4, Multicolor",NaN,NaN
+715,Disney AVENGERS 500 ml Water Bottle,Disney,500 ml,NaN,₹249,NaN,"Set of 1, Dark Blue",3.9,(13)
+716,Disney BELL 400 ml Water Bottle,Disney,400 ml,NaN,₹299,NaN,"Set of 1, Yellow",4.3,(6)
+717,HEALTHOXIDE Gym Shaker Pro Cyclone Shaker 500ml with Ex...,HEALTHOXIDE,500ml,₹699,₹349,50% off,"Pack of 1, Multicolor, Plastic",NaN,NaN
+718,Lifestraw Go 650 ml Sipper,Lifestraw,650 ml,"₹1,990","₹1,599",19% off,"Pack of 1, Blue, Tritan",4.5,(30)
+719,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+720,Tera13 unicorn 500 ml Water Bottles,Tera13,500 ml,₹599,₹459,23% off,"Set of 4, Multicolor",NaN,NaN
+721,Asian Aura Transparent Empty Spray Bottle 100 ml Bottle...,Asian,100 ml,₹399,₹115,71% off,White,4.1,(130)
+722,Milton MILTON KOOL CRONY 600 ml Water Bottles,Milton,600 ml,₹274,₹190,30% off,"Set of 2, Multicolor",NaN,NaN
+723,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+724,Tuelip Tuelip Sports Stainless Steel Water Bottle For S...,Tuelip,NaN,₹699,₹269,61% off,"Set of 1, Blue",4.2,(34)
+725,HAANS Hulk Gallon Shaker Bottle 1.5 Litre (model 1) 150...,HAANS,NaN,₹999,₹249,75% off,"Pack of 1, Black, Plastic",4.3,(224)
+726,ADIDAS S96920 750 ml Sipper,ADIDAS,750 ml,₹599,₹579,3% off,"Pack of 1, Black, Plastic",4.1,(208)
+727,Lifestraw 2 Stage Green 650 ml Sipper,Lifestraw,650 ml,"₹2,790","₹2,199",21% off,"Pack of 1, Green, Tritan",4.5,(13)
+728,Biotique Bio Cucumber Pore Tightening Toner With Himala...,Biotique,NaN,₹175,₹161,8% off,120 ml,4.1,(511)
+729,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+730,"Princeware Pet Fridge Bottle IRIS 1000 MLx 3 (PL), Tran...",Princeware,1000 ML,₹199,₹109,45% off,"Pack of 3, Clear, PET",NaN,NaN
+731,Health Mechanic Red Leaf Copper Bottle_1000ml 1000 ml B...,Health,1000ml,"₹1,399",₹488,65% off,"Pack of 1, Copper, Copper",4,(27)
+732,Cello H2O 1000 ml Bottle,Cello,1000 ml,₹977,₹657,32% off,"Pack of 6, Multicolor, Plastic",4.3,"(9,515)"
+733,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+734,Quick Shel Single Wall Stainless Steel Travel Gym Water...,Quick,NaN,₹899,₹270,69% off,"Pack of 1, Blue, Steel",3.9,(389)
+735,Milton Thermosteel Flip Lid 1000 ML Flask 1000 ml Bottl...,Milton,1000 ML,₹995,₹875,12% off,"Pack of 1, Silver, Steel",4.2,(22)
+736,Milton Elfin-300 Thermosteel Hot & Cold 300 ml Bottle,Milton,300 ml,₹545,₹478,12% off,"Pack of 1, Silver, Steel",4.4,(69)
+737,Tuelip Set Of 3 Stainless Steel Water Bottle For School...,Tuelip,NaN,₹999,₹629,37% off,"Set of 3, Silver",4.1,(141)
+738,CRYA Tile Style Bottle 300 ml,CRYA,300 ml,NaN,₹299,NaN,Pink,3.5,(8)
+739,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+740,Disney Tumbler 300 ml,Disney,300 ml,NaN,₹329,NaN,Pink,3.5,(6)
+741,MUGALE Energy Prnted Insulated 500 ml Water Bottle,MUGALE,500 ml,NaN,₹266,NaN,"Set of 1, Multicolor",NaN,NaN
+742,TrendZone Protein Shaker | Sipper Bottle | Gym Bottle |...,TrendZone,NaN,₹290,₹194,33% off,"Pack of 1, Multicolor, Tritan, Plastic",4.1,(74)
+743,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+744,Ipop Retail SPIDER PROTEIN MIXER GYM BOTTLE 500 ml Shak...,Ipop,500 ml,₹599,₹194,67% off,"Pack of 1, Blue, Plastic",4.1,(65)
+745,Nike Big Mouth Water Bottle 2.0 32 OZ 945 ml 945 ml Sip...,Nike,945 ml,₹690,₹622,9% off,"Pack of 1, Yellow, Plastic",4.1,(8)
+746,Horlicks Chocolate Delight Flavour Mix,Horlicks,NaN,NaN,₹110,NaN,200 g,4.4,"(7,215)"
+747,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹335,37% off,"Pack of 12, Blue, Orange, PET",3.8,(23)
+748,Milton VIRTUE 750 750 ml Bottle,Milton,750 ml,₹358,₹305,14% off,"Pack of 1, Pink, Steel",4,"(1,297)"
+749,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+750,720°DGREE Tritan Premium Eco-friendly Sports Bottle 150...,720°DGREE,NaN,"₹2,477","₹1,877",24% off,"Pack of 1, Maroon, Tritan",4.5,(362)
+751,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,₹998,₹299,70% off,"Pack of 1, Silver, Steel",4.2,(31)
+752,Tuelip Sports Stainless Steel Bottle for School Kids Gi...,Tuelip,NaN,₹999,₹449,55% off,"Pack of 2, Blue, Steel",NaN,NaN
+753,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+754,Relsa Cpln1000 1000 ml Bottle,Relsa,1000 ml,"₹1,695",₹369,78% off,"Pack of 1, Gold, Copper",3.9,(64)
+755,"Tuelip Stainless Steel Water Bottle for College, School...",Tuelip,NaN,"₹1,399",₹429,69% off,"Set of 2, Multicolor",3.9,(18)
+756,Barbie Classic 350 ml,Barbie,350 ml,NaN,₹799,NaN,Multicolor,4.7,(3)
+757,Lutyens SS Bottle 750 ml Water Bottle,Lutyens,750 ml,₹699,₹399,42% off,"Set of 1, Blue",3.6,(5)
+758,Disney MICKEY MOUSE 500 ml Water Bottle,Disney,500 ml,₹499,₹424,15% off,"Set of 1, Light Blue, Red",4,(26)
+759,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+760,Cello H2O 1000 ml Bottle,Cello,1000 ml,₹977,₹657,32% off,"Pack of 6, Multicolor, Plastic",4.3,"(9,515)"
+761,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹380,29% off,"Pack of 12, Black, Orange, PET",3.5,(148)
+762,Lutyens SS Bottle 750 ml Water Bottle,Lutyens,750 ml,₹699,₹399,42% off,"Set of 1, Blue",3.6,(5)
+763,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+764,Disney MICKEY MOUSE 500 ml Water Bottle,Disney,500 ml,₹499,₹424,15% off,"Set of 1, Light Blue, Red",4,(26)
+765,SKI Homeware FROZEN TURBO GLASS 400 ml,SKI,400 ml,₹449,₹359,20% off,Multicolor,4.6,(5)
+766,Disney Classic 360 ml,Disney,360 ml,NaN,₹349,NaN,Multicolor,4.6,(17)
+767,Chubs Muscle Is Loading Premium Quality 700 ml Shaker,Chubs,700 ml,₹199,₹149,25% off,"Pack of 1, Multicolor, Plastic",4,(853)
+768,TrendZone Protein Shaker | Sipper Bottle | Gym Bottle |...,TrendZone,NaN,₹290,₹194,33% off,"Pack of 1, Multicolor, Tritan, Plastic",4.1,(74)
+769,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+770,Indian Blu Smart Protein Shaker Bottle for gym with 2 S...,Indian,NaN,₹250,₹204,18% off,"Pack of 1, Black, Plastic",4.1,(96)
+771,Pantene Hair Fall Control Shampoo Men & Women,Pantene,NaN,NaN,₹115,NaN,180 ml,4.3,"(2,177)"
+772,Milton New Smarty 900 730 ml Bottle,Milton,730 ml,₹877,₹855,2% off,"Pack of 1, White, Steel",NaN,NaN
+773,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+774,Tupperware Aquasafe Water Bottle Set 1000 ml Bottle,Tupperware,1000 ml,"₹1,100",₹820,25% off,"Pack of 4, Multicolor, Plastic",4.3,(30)
+775,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹549,₹400,27% off,"Pack of 1, Blue, Steel",4.1,(114)
+776,"shopguru india Lyra Glass Milk, Water and Juice Bottle ...",shopguru,NaN,"₹2,080",₹409,80% off,"Pack of 6, Clear, Glass",4.1,(83)
+777,"Princeware Pet Fridge Bottle IRIS 1000 MLx 3 (PL), Tran...",Princeware,1000 ML,₹199,₹109,45% off,"Pack of 3, Clear, PET",NaN,NaN
+778,Milton Atlantis 500 ml Bottle,Milton,500 ml,₹665,₹566,14% off,"Pack of 1, Black, Steel",4.5,(70)
+779,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+780,Mattel Classic 400 ml,Mattel,400 ml,₹269,₹201,25% off,"Blue, Pink",4.3,(80)
+781,Disney DORA 400 ml Water Bottle,Disney,400 ml,NaN,₹199,NaN,"Set of 1, White",3.8,(63)
+782,kitchen gram 3 1000 ml Water Bottles,kitchen,1000 ml,"₹2,999","₹1,149",61% off,"Set of 3, Gold",NaN,NaN
+783,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+784,Marvel Classic 350 ml,Marvel,350 ml,NaN,₹349,NaN,Multicolor,3.9,(12)
+785,Nike HYPERFUEL WATER BOTTLE 18OZ 530 ml Sipper,Nike,530 ml,₹990,₹890,10% off,"Pack of 1, Black, Plastic",NaN,NaN
+786,Lifestraw 2 Stage Grey 650 ml Sipper,Lifestraw,650 ml,"₹2,790","₹2,299",17% off,"Pack of 1, Grey, Tritan",4.1,(7)
+787,"Spider Protein shaker bottle, 550 ml,Leak proof, storag...",Spider,550 ml,"₹1,200",₹539,55% off,"Pack of 4, Red, White, Green, Blue, Black, Yellow, Plastic",3,(18)
+788,Milton Thermosteel Flip lid 1000 ml Flask,Milton,1000 ml,₹995,₹849,14% off,"Pack of 1, Silver, Steel, Copper",4.4,"(1,35,756)"
+789,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+790,Milton PRUDENT-800 Thermosteel Hot & Cold Water Bottle ...,Milton,NaN,₹995,₹849,14% off,"Pack of 1, Pink, Blue, Steel",4.4,(715)
+791,Johnnie Boy Stainless Steel Vacuum Cup Outdoor Water Bo...,Johnnie,NaN,"₹1,299",₹549,57% off,"Pack of 1, Multicolor, Steel",4.2,(5)
+792,EASYDEX Bottle Pump Glass Oil Sprayer | Oil Spray Bottl...,EASYDEX,NaN,₹999,₹296,70% off,"Pack of 1, Clear, Glass",3,(4)
+793,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+794,Mohankheda SILICONE PORTABLE FOLDABLE WATER BOTTLE 500 ...,Mohankheda,NaN,₹999,₹480,51% off,"Pack of 1, Orange, Plastic",NaN,NaN
+795,Pigeon Tamba 1 Ltr Copper water bottle 1000 ml Bottle,Pigeon,1000 ml,₹995,₹669,32% off,"Pack of 1, Copper, Copper",4,"(2,089)"
+796,Piramal Glass Food Grade Water Bottle | Glass Water Bot...,Piramal,NaN,₹600,₹477,20% off,"Pack of 4, Clear, Glass",4.8,(32)
+797,PricelessDeals 500 ml Cute Unicorn Character Insulated ...,PricelessDeals,500 ml,₹499,₹350,29% off,"Set of 1, Pink",3.7,(35)
+798,Toys Factory NA 600 ml Water Bottle,Toys,600 ml,₹999,₹415,58% off,"Set of 1, White",NaN,NaN
+799,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+800,Cello sportigo 800 ml Bottle,Cello,800 ml,₹304,₹235,22% off,"Pack of 2, Blue, Pink, Plastic",4.3,"(3,317)"
+801,SHUANG YOU White 1000 mL Steel Water Bottle set of 1 10...,SHUANG,1000 mL,₹899,₹350,61% off,"Pack of 1, Silver, Steel",3.6,(28)
+802,"Milton Aqua Stainless Steel Fridge Water Bottle 930ml, ...",Milton,930ml,₹441,₹319,27% off,"Pack of 1, Silver, Steel",3.9,(479)
+803,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+804,Cronus Smart Buy Bubble Shape Designer Water Bottle For...,Cronus,NaN,"₹1,699",₹699,58% off,"Pack of 12, Multicolor, Plastic",4.3,(958)
+805,NEXIUM Exclusive Air Tight Fridge School College Water ...,NEXIUM,NaN,₹699,₹420,39% off,Multicolor,4.3,(181)
+806,Marvel Classic 415 ml,Marvel,415 ml,NaN,₹249,NaN,Red,4.1,(7)
+807,MOVIK SIPPER 200 ml,MOVIK,200 ml,₹799,₹325,59% off,Multicolor,NaN,NaN
+808,"Tuelip ""brain art work"" Printed Sipper Can Shape Bottle...",Tuelip,NaN,₹699,₹249,64% off,Multicolor,3.4,(8)
+809,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+810,QUINERGYS ™ Shaker Bottle Protein Shaker | Sipper Bottl...,QUINERGYS,NaN,₹290,₹195,32% off,"Pack of 1, Green, Tritan, Plastic",3.6,(12)
+811,Fitastic Blender Steel 700 ml Shaker,Fitastic,700 ml,"₹1,200",₹499,58% off,"Pack of 1, Blue, Steel",4.2,(19)
+812,Nova BPA Free 007 Premium 700 ml Shaker,Nova,700 ml,₹999,₹185,81% off,"Pack of 1, White, Black, Plastic",4.1,"(2,783)"
+813,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+814,Park Avenue Beer Anti Dandruff Shampoo Men & Women,Park,NaN,NaN,₹155,NaN,180 ml,4.2,"(13,960)"
+815,Denish Pack of 5 Transparent Empty Spray Bottle 100 ml ...,Denish,100 ml,₹599,₹210,64% off,"Pack of 5, Clear, Plastic",3.9,"(1,220)"
+816,MACARIZE Superior Quality Water Fridge Sports Bottle Fo...,MACARIZE,NaN,"₹1,499",₹379,74% off,"Pack of 6, Multicolor, PET, Plastic",5,(3)
+817,Cello sportigo 800 ml Bottle,Cello,800 ml,₹304,₹235,22% off,"Pack of 2, Orange, Grey, Plastic",4.3,"(3,317)"
+818,Parteet Stainless Steel Vacuum Unicorn Print Water Bott...,Parteet,NaN,₹800,₹369,53% off,"Pack of 1, Multicolor, Steel",4.2,(31)
+819,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+820,Quick Shel Single Wall Stainless Steel Travel Gym Water...,Quick,NaN,₹899,₹270,69% off,"Pack of 1, Blue, Steel",3.9,(389)
+821,Cello Sportigo 1000 ml Bottle,Cello,1000 ml,₹150,₹147,2% off,"Pack of 1, Grey, Plastic",4.2,"(2,566)"
+822,Signoraware Classic 500 ml,Signoraware,500 ml,NaN,₹210,NaN,Pink,NaN,NaN
+823,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+824,NFI essentials Y81 Red 750 ml Water Bottle,NFI,750 ml,₹550,₹249,54% off,"Set of 1, Red",3.7,(22)
+825,Nick Dora 600 ml Water Bottle,Nick,600 ml,NaN,₹449,NaN,"Set of 1, Dark Pink, Light Pink",4.1,(46)
+826,Marvel AVANGER 750 ml Water Bottle,Marvel,750 ml,NaN,₹399,NaN,"Set of 1, GRAY, GREEN",3.9,(37)
+827,Chubs High Quality Gym Shaker Gallon 1500 ml Shaker,Chubs,1500 ml,₹399,₹199,50% off,"Pack of 1, Multicolor, PET",4.1,(37)
+828,Nike Nike Elite Water Bottle 600 ml Sipper,Nike,600 ml,₹850,₹765,10% off,"Pack of 1, Orange, Plastic",4.5,(132)
+829,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+830,VOLCO My Gym Shaker Bottle with Pill & Protein Storage ...,VOLCO,NaN,"₹1,099",₹459,58% off,"Pack of 1, Multicolor, Plastic",3.9,(18)
+831,"Milton Thermosteel Glassy Drinking Cup Lid, 1000 Ml, Pu...",Milton,1000 Ml,"₹1,040",₹884,15% off,"Pack of 1, Purple, Steel",4.4,"(5,359)"
+832,"GPET Checkers Pet Bottle Set (Set Of 6) Purple, Orange,...",GPET,NaN,₹918,₹499,45% off,"Pack of 6, Clear, PET",4.4,(446)
+833,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+834,"NIRLON Stainless Steel Freezer Water Bottle Combo Set, ...",NIRLON,NaN,"₹2,475",₹798,67% off,"Pack of 3, Black, Steel",3.9,(31)
+835,Flipkart SmartBuy Bubble 1000 ml Bottle,Flipkart,1000 ml,₹599,₹299,50% off,"Pack of 3, Blue, Pink, White, PET",3.8,"(1,456)"
+836,Cello VENICE MULTICOLOR (PACK OF 8) 1000 ml Bottle,Cello,1000 ml,₹864,₹590,31% off,"Pack of 8, Multicolor, PET",4.4,(561)
+837,Pigeon Glamour Stainless Steel 600 ml Bottle,Pigeon,600 ml,₹665,₹411,38% off,"Pack of 1, Blue, Steel",NaN,NaN
+838,"khodiyar Water Bottle Set, Fridge Bottles 1000 ml (Pack...",khodiyar,1000 ml,"₹1,400",₹799,42% off,"Pack of 6, Green, Plastic",NaN,NaN
+839,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+840,Cello H2O Steel Fridge Bottle Pack of 3 1000 ml Bottle,Cello,1000 ml,"₹1,834","₹1,179",35% off,"Pack of 3, Silver, Steel, Aluminium",4.2,(167)
+841,"Taluka (9.5"" x 3.4"" Inches approx) Stainless Steel Oil ...",Taluka,NaN,"₹1,800",₹330,81% off,"Pack of 1, Steel/Chrome, Steel",3.5,(184)
+842,Cello Sportigo 1000 ml Bottle,Cello,1000 ml,NaN,NaN,NaN,"Pack of 1, Blue, Plastic",4.2,"(2,566)"
+843,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+844,Flipkart SmartBuy Bubble 1000 ml Bottle,Flipkart,1000 ml,₹599,₹299,50% off,"Pack of 3, Blue, Pink, White, PET",3.8,"(1,456)"
+845,"Milton THERMOSTEEL DUO 1800 1800 ml Bottle (Pack of 1, ...",Milton,1800 ml,"₹1,820","₹1,581",13% off,"Pack of 1, Steel/Chrome, Steel",4.3,(145)
+846,Tupperware Aquasafe Cool n Chic My Green Bottle 500 ml ...,Tupperware,500 ml,₹550,₹519,5% off,"Pack of 2, Blue, Purple, Plastic",4.5,(228)
+847,Marvel SPIDERMAN 400 ml Water Bottle,Marvel,400 ml,₹299,₹254,15% off,"Set of 1, Red, Blue",3.9,(65)
+848,Marvel Spiderman 450 ml Water Bottle,Marvel,450 ml,NaN,₹399,NaN,"Set of 1, Dark Blue, Red",NaN,NaN
+849,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+850,Hasbro Classic 350 ml,Hasbro,350 ml,NaN,₹799,NaN,Multicolor,NaN,NaN
+851,Disney Tumbler 300 ml,Disney,300 ml,NaN,₹399,NaN,Blue,NaN,NaN
+852,Cello 24 Hour Hot & Cold 500 ml Sipper,Cello,500 ml,₹598,₹570,4% off,"Pack of 1, Silver, Steel",3.8,(36)
+853,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+854,PRORUN Acrylic Frosty Mason Jar With Straw 550 ml Sippe...,PRORUN,550 ml,₹899,₹299,66% off,"Pack of 1, Blue, Plastic",NaN,NaN
+855,"Nike SPORT WATER BOTTLE 570ml, Sport(CLEAR/BLACK) 570 m...",Nike,570ml,NaN,₹850,NaN,"Pack of 1, White, Black, Plastic",NaN,NaN
+856,Chef Urbano Brown Flax Seeds,Chef,NaN,₹175,₹149,14% off,500 g,4.3,(762)
+857,KenBerry Alpha-Plus-(Pack of 1) 750 ml Bottle,KenBerry,750 ml,₹495,₹275,44% off,"Pack of 1, Steel/Chrome, Steel",4,(814)
+858,Kuber Industries Stainless Steel Fridge Water Bottle/Re...,Kuber,NaN,"₹1,798",₹449,75% off,"Pack of 2, Silver, Steel",3.8,(92)
+859,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+860,Milton VIRTUE 750 750 ml Bottle,Milton,750 ml,₹358,₹305,14% off,"Pack of 1, Pink, Steel",4,"(1,297)"
+861,Milton MAX 600 600 ml Bottle,Milton,600 ml,₹500,₹299,40% off,"Pack of 1, Silver, Steel",NaN,NaN
+862,Cello rover insulated bottle inner steel 600 ml orange ...,Cello,600 ml,₹435,₹399,8% off,"Pack of 1, Orange, Steel",NaN,NaN
+863,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+864,Tupperware Aquasafe Fiptop Eco Bottle 2000 ml Bottle,Tupperware,2000 ml,₹830,₹620,25% off,"Pack of 2, Pink, Blue, Plastic",4.5,(350)
+865,Tuelip Sports Stainless Steel Water Bottle For School G...,Tuelip,NaN,₹699,₹269,61% off,"Set of 1, Orange",3.8,(42)
+866,Tied Ribbons Simply the best sister Printed 600 ml Wate...,Tied,600 ml,"₹1,099",₹399,63% off,"Set of 1, White",4.1,(30)
+867,Marvel AVENGERS 500 ml Water Bottle,Marvel,500 ml,NaN,₹299,NaN,"Set of 1, Dark Blue",NaN,NaN
+868,Marvel AVENGERS 500 ml Water Bottle,Marvel,500 ml,NaN,₹299,NaN,"Set of 1, Multicolor",3.7,(21)
+869,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+870,Shop At Bargain SBS(163) Shaker Black - 500 ML 500 ml S...,Shop,500 ML,₹599,₹205,65% off,"Pack of 1, Black, Plastic",NaN,NaN
+871,"Crafts For You Doll Insulated Plastic Coffee, Juice Mil...",Crafts,NaN,₹449,₹299,33% off,"Pack of 1, Multicolor, Plastic",NaN,NaN
+872,TRUE INDIAN (BLACK) 500 ml Shaker,TRUE,500 ml,₹299,₹162,45% off,"Pack of 1, Black, Plastic",4.2,(37)
+873,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+874,Milton Thermosteel Flip Lid 750 ml Flask,Milton,750 ml,₹895,₹683,23% off,"Pack of 1, Silver, Steel, Copper",4.4,"(1,35,755)"
+875,NERR ™ COPPER BOTTLE 1000ML 1000 Bottle,NERR,1000ML,₹956,₹447,53% off,"Pack of 1, Orange, Copper",3.9,(91)
+876,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹335,37% off,"Pack of 12, Blue, PET",2.5,(4)
+877,Cello Vnice 1000 ml Bottle,Cello,1000 ml,₹525,₹425,19% off,"Pack of 5, Multicolor, Plastic",4.5,"(5,315)"
+878,Tupperware Aquasafe Cool n Chic My Green Bottle 500 ml ...,Tupperware,500 ml,₹550,₹519,5% off,"Pack of 2, Blue, Purple, Plastic",4.5,(228)
+879,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+880,"Crafts For You Doll Insulated Plastic Coffee, Juice Mil...",Crafts,NaN,₹449,₹299,33% off,"Pack of 1, Multicolor, Plastic",NaN,NaN
+881,Ketomac B6920011 Men & Women,Ketomac,NaN,₹432,₹375,13% off,2,4.3,(63)
+882,Cello rover insulated bottle inner steel 600 ml orange ...,Cello,600 ml,₹435,₹399,8% off,"Pack of 1, Orange, Steel",NaN,NaN
+883,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+884,Tupperware Aquasafe Cool n Chic My Green Bottle 500 ml ...,Tupperware,500 ml,₹550,₹519,5% off,"Pack of 2, Blue, Purple, Plastic",4.5,(228)
+885,"Cello Venice Plastic Water Bottle, 1 Litre, Set of 2, B...",Cello,NaN,NaN,₹219,NaN,"Pack of 2, Blue, Plastic",4.4,(150)
+886,Milton Atlantis-900 Thermosteel Hot & Cold Tea Water Bo...,Milton,NaN,₹890,₹757,14% off,"Pack of 1, Pink, Steel",4.4,"(3,651)"
+887,Milton VIRTUE 750 750 ml Bottle,Milton,750 ml,₹358,₹305,14% off,"Pack of 1, Pink, Steel",4,"(1,297)"
+888,SPEEDEX Easy Grip Single Walled Stainless Steel Water B...,SPEEDEX,NaN,₹525,₹388,26% off,"Pack of 1, Red, Steel",4.1,(190)
+889,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+890,My Baby Excel Classic 370 ml Water Bottle,My,370 ml,₹299,₹224,25% off,"Set of 1, Blue",3.6,(28)
+891,PagKis SUS 304 Stainless Steel 500 ml Water Bottle,PagKis,500 ml,"₹1,595",₹794,50% off,"Set of 1, Pink",4.8,(18)
+892,"drr Aluminium Durable Sports Water Bottle For College,S...",drr,NaN,₹999,₹499,50% off,Multicolor,NaN,NaN
+893,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+894,Kevlin Pack of 5 100 ml Water Bottles,Kevlin,100 ml,₹499,₹149,70% off,"Set of 5, White",3.2,(5)
+895,TrendZone Protein Milk Plastic Shaker.500ml Black Colou...,TrendZone,500ml,₹250,₹204,18% off,"Pack of 1, Black, Plastic",NaN,NaN
+896,Prestige Tattva Copper Bottle with Sipper 700 ml Sipper,Prestige,700 ml,₹845,₹749,11% off,"Pack of 1, Copper, Copper",4.1,(33)
+897,Alpyog Electric Blender Bottle 380 ml Shaker,Alpyog,380 ml,NaN,₹728,NaN,"Pack of 1, Green, Plastic",3.5,(64)
+898,Plum Green Tea Alcohol-Free Toner Men & Women,Plum,NaN,₹390,₹312,20% off,200 ml,4.2,"(12,217)"
+899,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+900,Cello CRYSTAL 1000 ml Bottle,Cello,1000 ml,₹540,₹335,37% off,"Pack of 12, Blue, PET",2.5,(4)
+901,Cello Vnice 1000 ml Bottle,Cello,1000 ml,₹525,₹425,19% off,"Pack of 5, Multicolor, Plastic",4.5,"(5,315)"
+902,"Milton Duke Thermosteel Hot & Cold Water Bottle, 600 ml...",Milton,600 ml,₹920,₹728,20% off,"Pack of 1, Pink, Steel",4.3,"(2,037)"
+903,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+904,Wonderchef Fridge Bot 1000 ml Bottle,Wonderchef,1000 ml,"₹1,000",₹711,28% off,"Pack of 2, Silver, Steel",4.4,(5)
+905,"VIVA h2o Stainless Steel Water Bottle for Kids,Teens,Tr...",VIVA,NaN,NaN,₹489,NaN,"Pack of 1, Brown, Steel",NaN,NaN
+906,Aarushi Food Grade Plastic (Pack of 3) 1000 ml Bottle,Aarushi,1000 ml,"₹1,000",₹255,74% off,"Pack of 3, Multicolor, Plastic",3.9,(112)
+907,Quick Shel OMBRE EFFECT 500 ml,Quick,500 ml,₹999,₹390,60% off,"Pink, White",4.8,(4)
+908,Online World Online World Double Vacuum Insulated Stain...,Online,NaN,"₹1,099",₹403,63% off,Pink,3.3,(3)
+909,SNT Shaker Bottle 1000 ml 1000 ml Bottle,SNT,1000 ml,₹490,₹250,48% off,"Pack of 1, Black, Plastic",NaN,NaN
+910,Disney FROZEN 500 ml Water Bottle,Disney,500 ml,NaN,₹299,NaN,"Set of 1, Light Blue, Red",3.6,(8)
+911,Joyo Ss_ranger 1000 ml Water Bottle,Joyo,1000 ml,"₹1,499",₹749,50% off,"Set of 1, Silver",NaN,NaN
+912,SHOPNJAZZ Acrylic Sipper Combo (Pack of 2) BLING BLING ...,SHOPNJAZZ,NaN,NaN,₹690,NaN,"Pack of 2, Multicolor, Glass",NaN,NaN
+913,Tupperware Fliptop Bottle 750 ml Bottle,Tupperware,750 ml,"₹1,100",₹989,10% off,"Pack of 4, Yellow, Green, Blue, Red, Plastic",4.8,(9)
+914,urban gear Smart Gym Shaker Bottle with Blending Ball &...,urban,NaN,₹699,₹320,54% off,"Pack of 1, Orange, Grey, Plastic",3.2,(5)
+915,Shop4All Jar With straw This Is my Drink 450 ml Sipper ...,Shop4All,450 ml,₹699,₹370,47% off,"Pack of 1, Purple, Plastic",4.6,(42)
+916,HP 17 inch Laptop Backpack,HP,NaN,"₹1,108",₹320,71% off,Black,3.9,"(1,329)"
+917,Health Mechanic Hot_nd_Cold_Silver_Red_500ml(2) 500 ml ...,Health,500ml,₹999,₹599,40% off,"Pack of 2, Multicolor, Steel",3.8,(10)
+918,Milton MAX 600 600 ml Bottle,Milton,600 ml,₹500,₹299,40% off,"Pack of 1, Silver, Steel",NaN,NaN
+919,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
+920,Tupperware Peppa Pig Thirst n Go Tumblers 470 ml Sipper,Tupperware,470 ml,₹900,₹685,23% off,"Pack of 2, Pink, Blue, Plastic",4.9,(7)
+921,Bestdealproduct Unisex Spider Gym Sipper Protein Shaker...,Bestdealproduct,NaN,₹250,₹198,20% off,"Pack of 1, Multicolor, Plastic",4.4,(47)
+922,Tupperware Kids Water bottle Tumbler with Sipprer 12 oz...,Tupperware,NaN,"₹1,200",₹585,51% off,"Pack of 4, Orange, Yellow, Plastic",4.8,(21)
+923,AKG Stainless Steel Fridge Water Bottle/Refrigerator Bo...,AKG,NaN,₹999,₹599,40% off,"Pack of 3, Silver, Steel",3.9,(169)
+924,Nescafe Gold Instant Coffee,Nescafe,NaN,₹290,₹275,5% off,50 g,4.5,"(5,849)"
+925,KenBerry Alpha Duke 750 ml Bottle,KenBerry,750 ml,₹990,₹575,41% off,"Pack of 2, Black, Steel",3.3,(4)
+926,"KWICK BOX Multicolor 1000 ml Bottle (Pack of 8, Red, Bl...",KWICK,1000 ml,₹999,₹399,60% off,"Pack of 8, Multicolor, Plastic",NaN,NaN
+927,Vaya Drynk Shiny Black Thermosteel Water Bottle with Si...,Vaya,NaN,"₹1,990","₹1,450",27% off,"Pack of 1, Black, Steel",4,(144)
+928,Nayasa FONTANA 1500 ml Bottle,Nayasa,1500 ml,₹499,₹250,49% off,"Pack of 2, Pink, Plastic",4.2,(494)
+929,STARRY Jointless Mirror Shine Stainless Steel Water Bot...,STARRY,NaN,₹549,₹299,45% off,"Pack of 1, Silver, Steel",NaN,NaN
+930,Milton Sler 750 750 ml Bottle,Milton,750 ml,₹930,₹791,14% off,"Pack of 1, Blue, Steel",4.5,(20)
+931,Cello LIFESTYLE ST105 1000 ml Bottle,Cello,1000 ml,₹999,₹849,15% off,"Pack of 1, Silver, Steel, Aluminium",4.2,(256)
+932,Cartoon Network Ben 10 750 ml Water Bottle,Cartoon,750 ml,NaN,₹499,NaN,"Set of 1, Green, Steel",4,(3)
+933,AKG Stainless Steel Water Bottle/ Fridge Water Bottle 1...,AKG,NaN,"₹2,999","₹1,098",63% off,"Pack of 6, Silver, Steel",4,(281)
+934,Rema Do Your Best 1000 Stainless Steel Water Bottle For...,Rema,NaN,₹400,₹200,50% off,"Set of 1, Red",4.3,(3)
+935,Marvel IRONMAN 750 ml Water Bottle,Marvel,750 ml,₹599,₹509,15% off,"Set of 1, Red",4.1,(8)
+936,Tuelip Combo Of 2 Stainless Steel Water Bottle For Scho...,Tuelip,NaN,₹799,₹449,43% off,"Set of 2, Blue, Green",3.9,(43)
+937,TrendZone Spider Gym Bottle Sports Protein Shaker Fitne...,TrendZone,NaN,₹311,₹202,35% off,"Pack of 1, Multicolor, Plastic",3.8,(16)
+938,VOLCO BPA Free Gym Shaker/Bottle/Sipper with Mixer Ball...,VOLCO,NaN,₹799,₹199,75% off,"Pack of 1, Black, Maroon, Plastic",4,(103)
+939,STARRY Stainless Steel Fridge/Sports /Refrigerator Wate...,STARRY,NaN,₹595,₹239,59% off,"Pack of 1, Silver, Steel",NaN,NaN
+940,My 60 Minutes Gym 600 ml Shaker,My,600 ml,₹399,₹149,62% off,"Pack of 1, White, Plastic",4.1,(395)
+941,Bacto-V Gadget Disinfectant Spray,Bacto-V,NaN,₹249,₹199,20% off,100 ml,4.2,"(1,458)"
+942,UNICOP Pure Copper High Quality Luxirious 1000 ml Bottl...,UNICOP,1000 ml,₹999,₹802,19% off,"Pack of 2, Brown, Copper",4.2,(6)
+943,STARRY Stainless Steel Fridge water bottle 1000 ml (Pac...,STARRY,1000 ml,"₹1,190",₹429,63% off,"Pack of 2, Silver, Steel",NaN,NaN
+944,Milton oscar 1000 ml Bottle,Milton,1000 ml,₹270,₹195,27% off,"Pack of 6, Blue, Plastic",4.3,(3)
+945,Milton Unisteel Campa 1100 1010 ml Bottle,Milton,1010 ml,₹495,₹439,11% off,"Pack of 1, Silver, Steel",3.9,(179)
+946,Flipkart SmartBuy Designer Bubble 6000 ml Bottle,Flipkart,6000 ml,"₹1,279",₹499,60% off,"Pack of 6, Multicolor, PET",4.4,"(2,174)"
+947,Flipkart SmartBuy Daimond 1200 ml Bottle,Flipkart,1200 ml,₹999,₹347,65% off,"Pack of 3, White, Green, Red, PET",4.4,(941)
+948,Wonderchef Gym-Bot single wall 500 ml Bottle,Wonderchef,500 ml,₹400,₹219,45% off,"Pack of 1, Copper, Steel",4.5,(12)
+949,Greenchef SS Bottle - 750ml with Handle 750 ml Bottle,Greenchef,750ml,₹899,₹589,34% off,"Pack of 1, Silver, Steel",4.3,"(2,015)"
+950,Little Kitchen Bottle 500 ml Water Bottle,Little,500 ml,₹999,₹449,55% off,"Set of 1, White",NaN,NaN
+951,dubblin Rock N Roll Dubblin Duro Stainless Steel Design...,dubblin,NaN,₹629,₹579,7% off,"Set of 1, Multicolor, Silver, Blue, Pink, Light Green",NaN,NaN
+952,Tee Mafia 16 600 ml Water Bottle,Tee,600 ml,₹799,₹349,56% off,"Set of 1, White",NaN,NaN
+953,SPEEDEX Single Walled Stainless Steel Fridge Water Bott...,SPEEDEX,NaN,₹449,₹399,11% off,"Pack of 1, Blue, Steel",4.1,(434)
+954,WILLA NEW BS.WATER BOTTEL 600 ml Water Bottle,WILLA,600 ml,₹799,₹347,56% off,"Set of 1, Blue",NaN,NaN
+955,ADIDAS Performance Training 750 ml Sipper,ADIDAS,750 ml,₹599,₹569,5% off,"Pack of 1, Blue, White, Plastic",NaN,NaN
+956,SPEEDEX Easy Grip Single Walled Stainless Steel Water B...,SPEEDEX,NaN,₹525,₹409,22% off,"Pack of 1, Silver, Steel",4.1,(190)
+957,Iris Glass Mtutu Eco-Friendly & BPA Free 650 ml Sipper,Iris,650 ml,"₹6,000","₹3,134",47% off,"Pack of 6, Multicolor, Plastic",NaN,NaN
+958,Fiama Peach & Avocado Shower Gel,Fiama,NaN,₹199,₹159,20% off,250 ml,4.4,"(4,935)"
+959,Milton Thermosteel duo dlx 1000 1000 ml Bottle,Milton,1000 ml,"₹1,200",₹999,16% off,"Pack of 1, Steel/Chrome, Steel",4.5,"(4,182)"
